@@ -9,8 +9,6 @@ import matplotlib.pyplot as plt
 
 import pickle
 
-
-
 # Read the JSON file into a DataFrame
 df = pd.read_json("input/main-at-2024-05-28-recoded-mostly.json")
 
