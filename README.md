@@ -29,7 +29,7 @@ Create a Python virtual environment in the root of the publishorcomparish direct
 - Transcript annotation data are available for open access at [OSF](https://osf.io/r6sf5/?view_only=c2804dd7c80a467885df9eccdd781e3b).
 - Transcript text data are available by subscription from the Nexis-Uni database, a public library research platform and a subsidiary of LexisNexis and the RELX Group.
 - Survey data used in this work are available through the following publication: 
-Sparkman, Gregg, Nathan Geiger, and Elke U. Weber. "Americans experience a false social reality by underestimating popular climate policy support by nearly half." *Nature Communications* 13.1 (2022): 4779. [DOI:10.1038/s41467-022-32412-y](https://doi.org/10.1038/s41467-022-32412-y)
+Sparkman, Gregg, et al. "Americans experience a false social reality by underestimating popular climate policy support by nearly half." *Nature Communications* 13.1 (2022): 4779. [DOI:10.1038/s41467-022-32412-y](https://doi.org/10.1038/s41467-022-32412-y)
 
 ## Contents
 
