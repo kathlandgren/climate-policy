@@ -1,12 +1,7 @@
-
-itertools
+matplotlib
 numpy
-networkx
+pandas
 pickle
-os
-concurrent.futures
-collections 
-random
-bisect
-copy
-sys
+scipy
+seaborn
+sklearn
