@@ -4,4 +4,4 @@ pandas
 pickle
 scipy
 seaborn
-sklearn
+scikit-learn
