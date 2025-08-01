@@ -1,6 +1,6 @@
-# Why does the U.S. public underestimate climate policy support?
+# U.S. television news coverage of climate change policy is aggregately balanced but polarized
 
-This repository houses the code for the research on the mechanisms behind public support on climate policy.
+This repository houses the code for the research analyzing climate policy coverage in U.S. television news.
 
 ## Installation instructions
 Use `git clone` to download this repository either via HTTPS
