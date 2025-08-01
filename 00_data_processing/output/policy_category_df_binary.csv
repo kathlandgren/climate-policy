@@ -1,0 +1,1501 @@
+internal_id,annotator,policy,Paris Agreement,Green New Deal,Executive action,Emergency declaration,(De)regulation and laws,Renewable energy,Emission reduction,Oil and gas industry,Other climate policy
+0,17,"['Paris Agreement', 'Green New Deal', 'Renewable energy', 'Emission reduction', 'Oil and gas industry', 'Other climate policy']",1,1,0,0,0,1,1,1,1
+0,18,"['Paris Agreement', 'Green New Deal', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",1,1,0,0,0,1,1,1,0
+2,17,['Green New Deal'],0,1,0,0,0,0,0,0,0
+2,18,['Green New Deal'],0,1,0,0,0,0,0,0,0
+8,17,"['Executive action', '(De)regulation and laws', 'Emission reduction', 'Oil and gas industry', 'Other climate policy']",0,0,1,0,1,0,1,1,1
+8,18,"['Executive action', '(De)regulation and laws', 'Emission reduction', 'Oil and gas industry', 'Other climate policy']",0,0,1,0,1,0,1,1,1
+20,17,"['Paris Agreement', 'Executive action', '(De)regulation and laws']",1,0,1,0,1,0,0,0,0
+20,18,"['Paris Agreement', 'Executive action', '(De)regulation and laws']",1,0,1,0,1,0,0,0,0
+23,17,"['Executive action', '(De)regulation and laws', 'Emission reduction', 'Oil and gas industry']",0,0,1,0,1,0,1,1,0
+23,18,"['Executive action', '(De)regulation and laws', 'Emission reduction', 'Oil and gas industry']",0,0,1,0,1,0,1,1,0
+25,18,"['Emission reduction', 'Oil and gas industry']",0,0,0,0,0,0,1,1,0
+25,17,['Oil and gas industry'],0,0,0,0,0,0,0,1,0
+26,17,['Executive action'],0,0,1,0,0,0,0,0,0
+26,18,['Executive action'],0,0,1,0,0,0,0,0,0
+30,17,"['Green New Deal', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",0,1,0,0,0,1,1,1,0
+30,18,"['Green New Deal', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",0,1,0,0,0,1,1,1,0
+36,18,['Oil and gas industry'],0,0,0,0,0,0,0,1,0
+36,17,['Oil and gas industry'],0,0,0,0,0,0,0,1,0
+43,18,"['Executive action', 'Renewable energy']",0,0,1,0,0,1,0,0,0
+43,17,['Executive action'],0,0,1,0,0,0,0,0,0
+49,17,"['Renewable energy', 'Emission reduction', 'Other climate policy']",0,0,0,0,0,1,1,0,1
+49,18,"['Renewable energy', 'Emission reduction', 'Other climate policy']",0,0,0,0,0,1,1,0,1
+53,17,['Green New Deal'],0,1,0,0,0,0,0,0,0
+53,18,['Green New Deal'],0,1,0,0,0,0,0,0,0
+77,17,"['Executive action', 'Emergency declaration', '(De)regulation and laws', 'Renewable energy', 'Oil and gas industry']",0,0,1,1,1,1,0,1,0
+77,18,"['Executive action', '(De)regulation and laws', 'Renewable energy', 'Oil and gas industry']",0,0,1,0,1,1,0,1,0
+81,17,"['(De)regulation and laws', 'Renewable energy', 'Emission reduction']",0,0,0,0,1,1,1,0,0
+81,16,"['(De)regulation and laws', 'Renewable energy', 'Emission reduction']",0,0,0,0,1,1,1,0,0
+82,17,"['(De)regulation and laws', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",0,0,0,0,1,1,1,1,0
+82,16,"['(De)regulation and laws', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",0,0,0,0,1,1,1,1,0
+86,17,[],0,0,0,0,0,0,0,0,0
+86,18,[],0,0,0,0,0,0,0,0,0
+112,17,[],0,0,0,0,0,0,0,0,0
+112,18,[],0,0,0,0,0,0,0,0,0
+139,17,['Green New Deal'],0,1,0,0,0,0,0,0,0
+139,18,['Green New Deal'],0,1,0,0,0,0,0,0,0
+174,17,"['Paris Agreement', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",1,0,0,0,0,1,1,1,0
+174,18,"['Paris Agreement', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",1,0,0,0,0,1,1,1,0
+175,17,"['Paris Agreement', 'Green New Deal', 'Executive action', '(De)regulation and laws', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",1,1,1,0,1,1,1,1,0
+175,18,"['Paris Agreement', 'Green New Deal', 'Executive action', '(De)regulation and laws', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",1,1,1,0,1,1,1,1,0
+184,17,"['Paris Agreement', 'Renewable energy', 'Emission reduction']",1,0,0,0,0,1,1,0,0
+184,18,"['Paris Agreement', 'Renewable energy', 'Emission reduction']",1,0,0,0,0,1,1,0,0
+187,17,"['Paris Agreement', 'Green New Deal', '(De)regulation and laws', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",1,1,0,0,1,1,1,1,0
+187,18,"['Paris Agreement', 'Green New Deal', 'Executive action', '(De)regulation and laws', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",1,1,1,0,1,1,1,1,0
+190,18,['Other climate policy'],0,0,0,0,0,0,0,0,1
+190,17,['Other climate policy'],0,0,0,0,0,0,0,0,1
+191,18,"['Paris Agreement', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",1,0,0,0,0,1,1,1,0
+191,17,"['Paris Agreement', 'Renewable energy', 'Emission reduction', 'Oil and gas industry', 'Other climate policy']",1,0,0,0,0,1,1,1,1
+197,18,"['Paris Agreement', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",1,0,0,0,0,1,1,1,0
+197,17,"['Paris Agreement', 'Executive action', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",1,0,1,0,0,1,1,1,0
+198,18,"['Green New Deal', 'Executive action', '(De)regulation and laws', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",0,1,1,0,1,1,1,1,0
+198,17,"['Green New Deal', 'Executive action', '(De)regulation and laws', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",0,1,1,0,1,1,1,1,0
+205,18,"['Green New Deal', 'Executive action']",0,1,1,0,0,0,0,0,0
+205,17,"['Green New Deal', 'Executive action', 'Renewable energy']",0,1,1,0,0,1,0,0,0
+206,17,"['Green New Deal', 'Executive action']",0,1,1,0,0,0,0,0,0
+206,18,"['Green New Deal', 'Executive action']",0,1,1,0,0,0,0,0,0
+207,17,"['Green New Deal', 'Renewable energy', 'Emission reduction']",0,1,0,0,0,1,1,0,0
+207,18,"['Green New Deal', 'Renewable energy', 'Emission reduction']",0,1,0,0,0,1,1,0,0
+209,17,"['Executive action', 'Other climate policy']",0,0,1,0,0,0,0,0,1
+209,18,"['Executive action', 'Other climate policy']",0,0,1,0,0,0,0,0,1
+210,17,"['Executive action', 'Renewable energy', 'Other climate policy']",0,0,1,0,0,1,0,0,1
+210,18,"['Executive action', 'Renewable energy', 'Other climate policy']",0,0,1,0,0,1,0,0,1
+213,17,"['Paris Agreement', 'Green New Deal', 'Executive action', 'Renewable energy', 'Oil and gas industry']",1,1,1,0,0,1,0,1,0
+213,18,"['Paris Agreement', 'Green New Deal', 'Executive action', 'Renewable energy', 'Oil and gas industry']",1,1,1,0,0,1,0,1,0
+216,17,"['Executive action', 'Renewable energy', 'Emission reduction']",0,0,1,0,0,1,1,0,0
+216,18,"['Executive action', 'Renewable energy', 'Emission reduction']",0,0,1,0,0,1,1,0,0
+218,17,"['Green New Deal', 'Executive action', 'Renewable energy']",0,1,1,0,0,1,0,0,0
+218,18,"['Green New Deal', 'Executive action', 'Renewable energy']",0,1,1,0,0,1,0,0,0
+219,17,['Green New Deal'],0,1,0,0,0,0,0,0,0
+219,18,['Green New Deal'],0,1,0,0,0,0,0,0,0
+220,17,"['Executive action', 'Other climate policy']",0,0,1,0,0,0,0,0,1
+220,18,"['Executive action', 'Other climate policy']",0,0,1,0,0,0,0,0,1
+230,17,"['Executive action', 'Renewable energy']",0,0,1,0,0,1,0,0,0
+230,18,"['Executive action', 'Renewable energy']",0,0,1,0,0,1,0,0,0
+236,17,['Executive action'],0,0,1,0,0,0,0,0,0
+236,18,['Executive action'],0,0,1,0,0,0,0,0,0
+251,17,"['Executive action', '(De)regulation and laws', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",0,0,1,0,1,1,1,1,0
+251,18,"['Executive action', '(De)regulation and laws', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",0,0,1,0,1,1,1,1,0
+253,17,"['Executive action', 'Renewable energy']",0,0,1,0,0,1,0,0,0
+253,18,"['Executive action', 'Renewable energy', 'Oil and gas industry']",0,0,1,0,0,1,0,1,0
+256,17,"['Paris Agreement', 'Green New Deal', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",1,1,0,0,0,1,1,1,0
+256,18,"['Paris Agreement', 'Green New Deal', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",1,1,0,0,0,1,1,1,0
+260,17,"['Executive action', 'Oil and gas industry']",0,0,1,0,0,0,0,1,0
+260,18,"['Executive action', 'Oil and gas industry']",0,0,1,0,0,0,0,1,0
+262,17,"['Executive action', '(De)regulation and laws', 'Oil and gas industry']",0,0,1,0,1,0,0,1,0
+262,18,"['Executive action', '(De)regulation and laws', 'Oil and gas industry']",0,0,1,0,1,0,0,1,0
+265,17,"['Green New Deal', 'Executive action', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",0,1,1,0,0,1,1,1,0
+265,18,"['Green New Deal', 'Executive action', 'Renewable energy', 'Emission reduction']",0,1,1,0,0,1,1,0,0
+268,17,"['Paris Agreement', 'Executive action', 'Renewable energy']",1,0,1,0,0,1,0,0,0
+268,18,"['Executive action', 'Renewable energy']",0,0,1,0,0,1,0,0,0
+275,17,"['Green New Deal', 'Executive action', 'Renewable energy', 'Oil and gas industry']",0,1,1,0,0,1,0,1,0
+275,18,"['Executive action', 'Renewable energy', 'Oil and gas industry']",0,0,1,0,0,1,0,1,0
+276,17,"['Green New Deal', 'Executive action', 'Renewable energy', 'Emission reduction']",0,1,1,0,0,1,1,0,0
+276,18,"['Green New Deal', 'Executive action', 'Renewable energy', 'Emission reduction']",0,1,1,0,0,1,1,0,0
+277,17,"['Executive action', 'Emission reduction']",0,0,1,0,0,0,1,0,0
+277,18,"['Executive action', 'Emission reduction']",0,0,1,0,0,0,1,0,0
+278,17,"['Executive action', 'Renewable energy']",0,0,1,0,0,1,0,0,0
+278,18,['Executive action'],0,0,1,0,0,0,0,0,0
+279,17,"['Executive action', 'Emission reduction']",0,0,1,0,0,0,1,0,0
+279,18,"['Executive action', 'Emission reduction']",0,0,1,0,0,0,1,0,0
+281,17,"['Executive action', 'Renewable energy']",0,0,1,0,0,1,0,0,0
+281,18,"['Executive action', 'Renewable energy']",0,0,1,0,0,1,0,0,0
+282,17,"['Executive action', 'Emission reduction']",0,0,1,0,0,0,1,0,0
+282,18,"['Executive action', 'Emission reduction']",0,0,1,0,0,0,1,0,0
+287,17,"['Green New Deal', 'Executive action', 'Renewable energy', 'Oil and gas industry']",0,1,1,0,0,1,0,1,0
+287,18,"['Green New Deal', 'Executive action', 'Renewable energy', 'Oil and gas industry']",0,1,1,0,0,1,0,1,0
+288,17,"['Executive action', 'Renewable energy', 'Oil and gas industry']",0,0,1,0,0,1,0,1,0
+288,18,"['Executive action', 'Renewable energy', 'Oil and gas industry']",0,0,1,0,0,1,0,1,0
+289,17,"['Green New Deal', 'Executive action']",0,1,1,0,0,0,0,0,0
+289,18,"['Green New Deal', 'Executive action']",0,1,1,0,0,0,0,0,0
+296,17,"['Green New Deal', 'Renewable energy', 'Emission reduction']",0,1,0,0,0,1,1,0,0
+296,18,"['Green New Deal', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",0,1,0,0,0,1,1,1,0
+305,17,"['Executive action', 'Oil and gas industry']",0,0,1,0,0,0,0,1,0
+305,18,['Executive action'],0,0,1,0,0,0,0,0,0
+307,17,"['Executive action', 'Renewable energy']",0,0,1,0,0,1,0,0,0
+307,18,['Executive action'],0,0,1,0,0,0,0,0,0
+311,17,"['Green New Deal', 'Executive action', 'Oil and gas industry']",0,1,1,0,0,0,0,1,0
+311,18,"['Green New Deal', 'Executive action', 'Oil and gas industry']",0,1,1,0,0,0,0,1,0
+316,17,"['Green New Deal', 'Executive action']",0,1,1,0,0,0,0,0,0
+316,18,['Executive action'],0,0,1,0,0,0,0,0,0
+319,17,"['Green New Deal', 'Executive action', 'Renewable energy', 'Oil and gas industry']",0,1,1,0,0,1,0,1,0
+319,18,"['Green New Deal', 'Executive action']",0,1,1,0,0,0,0,0,0
+332,17,"['Executive action', 'Renewable energy']",0,0,1,0,0,1,0,0,0
+332,18,['Renewable energy'],0,0,0,0,0,1,0,0,0
+333,17,"['Executive action', 'Renewable energy']",0,0,1,0,0,1,0,0,0
+333,18,"['Executive action', 'Renewable energy']",0,0,1,0,0,1,0,0,0
+350,18,"['Executive action', 'Renewable energy']",0,0,1,0,0,1,0,0,0
+350,17,"['Executive action', 'Renewable energy']",0,0,1,0,0,1,0,0,0
+353,18,"['Emission reduction', 'Oil and gas industry']",0,0,0,0,0,0,1,1,0
+353,17,"['Emission reduction', 'Oil and gas industry']",0,0,0,0,0,0,1,1,0
+368,18,"['Paris Agreement', 'Emergency declaration', 'Renewable energy', 'Emission reduction']",1,0,0,1,0,1,1,0,0
+368,17,"['Paris Agreement', 'Emergency declaration', 'Renewable energy', 'Emission reduction']",1,0,0,1,0,1,1,0,0
+373,18,"['Paris Agreement', 'Green New Deal', 'Executive action', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",1,1,1,0,0,1,1,1,0
+373,17,"['Paris Agreement', 'Green New Deal', 'Executive action', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",1,1,1,0,0,1,1,1,0
+374,18,"['Paris Agreement', 'Green New Deal', 'Executive action', 'Emergency declaration', '(De)regulation and laws', 'Renewable energy', 'Emission reduction', 'Oil and gas industry', 'Other climate policy']",1,1,1,1,1,1,1,1,1
+374,17,"['Paris Agreement', 'Green New Deal', 'Executive action', 'Emergency declaration', '(De)regulation and laws', 'Renewable energy', 'Emission reduction', 'Oil and gas industry', 'Other climate policy']",1,1,1,1,1,1,1,1,1
+379,18,"['Paris Agreement', 'Executive action', '(De)regulation and laws', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",1,0,1,0,1,1,1,1,0
+379,17,"['Paris Agreement', 'Executive action', '(De)regulation and laws', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",1,0,1,0,1,1,1,1,0
+380,18,['Green New Deal'],0,1,0,0,0,0,0,0,0
+380,17,['Green New Deal'],0,1,0,0,0,0,0,0,0
+382,18,"['Green New Deal', 'Executive action']",0,1,1,0,0,0,0,0,0
+382,17,"['Green New Deal', 'Executive action']",0,1,1,0,0,0,0,0,0
+383,18,"['Green New Deal', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",0,1,0,0,0,1,1,1,0
+383,17,"['Green New Deal', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",0,1,0,0,0,1,1,1,0
+384,18,"['Emission reduction', 'Oil and gas industry']",0,0,0,0,0,0,1,1,0
+384,17,"['Emission reduction', 'Oil and gas industry']",0,0,0,0,0,0,1,1,0
+390,18,"['Green New Deal', 'Renewable energy', 'Emission reduction', 'Other climate policy']",0,1,0,0,0,1,1,0,1
+390,17,"['Paris Agreement', 'Green New Deal', 'Renewable energy', 'Emission reduction']",1,1,0,0,0,1,1,0,0
+393,18,['Green New Deal'],0,1,0,0,0,0,0,0,0
+393,17,['Green New Deal'],0,1,0,0,0,0,0,0,0
+394,18,['Green New Deal'],0,1,0,0,0,0,0,0,0
+394,17,['Green New Deal'],0,1,0,0,0,0,0,0,0
+395,18,"['Green New Deal', 'Executive action', 'Other climate policy']",0,1,1,0,0,0,0,0,1
+395,17,"['Green New Deal', 'Executive action', 'Other climate policy']",0,1,1,0,0,0,0,0,1
+396,18,"['Green New Deal', 'Executive action', 'Emission reduction']",0,1,1,0,0,0,1,0,0
+396,17,"['Green New Deal', 'Executive action', 'Emission reduction']",0,1,1,0,0,0,1,0,0
+412,18,"['Executive action', '(De)regulation and laws', 'Other climate policy']",0,0,1,0,1,0,0,0,1
+412,17,"['Executive action', '(De)regulation and laws', 'Other climate policy']",0,0,1,0,1,0,0,0,1
+415,18,"['Paris Agreement', 'Emission reduction', 'Other climate policy']",1,0,0,0,0,0,1,0,1
+415,17,"['Paris Agreement', 'Emission reduction', 'Other climate policy']",1,0,0,0,0,0,1,0,1
+428,18,['Paris Agreement'],1,0,0,0,0,0,0,0,0
+428,17,['Paris Agreement'],1,0,0,0,0,0,0,0,0
+431,18,"['Paris Agreement', 'Executive action', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",1,0,1,0,0,1,1,1,0
+431,17,"['Paris Agreement', 'Executive action', 'Renewable energy', 'Emission reduction', 'Oil and gas industry', 'Other climate policy']",1,0,1,0,0,1,1,1,1
+433,18,"['Green New Deal', 'Executive action', '(De)regulation and laws', 'Renewable energy', 'Emission reduction', 'Oil and gas industry', 'Other climate policy']",0,1,1,0,1,1,1,1,1
+433,17,"['Green New Deal', 'Executive action', '(De)regulation and laws', 'Renewable energy', 'Emission reduction', 'Oil and gas industry', 'Other climate policy']",0,1,1,0,1,1,1,1,1
+435,18,"['Green New Deal', 'Executive action', 'Oil and gas industry']",0,1,1,0,0,0,0,1,0
+435,17,"['Green New Deal', 'Executive action', 'Oil and gas industry']",0,1,1,0,0,0,0,1,0
+443,17,['Paris Agreement'],1,0,0,0,0,0,0,0,0
+443,16,['Paris Agreement'],1,0,0,0,0,0,0,0,0
+444,17,['Paris Agreement'],1,0,0,0,0,0,0,0,0
+444,16,['Paris Agreement'],1,0,0,0,0,0,0,0,0
+448,17,"['Executive action', '(De)regulation and laws', 'Oil and gas industry']",0,0,1,0,1,0,0,1,0
+448,16,"['Executive action', '(De)regulation and laws', 'Oil and gas industry']",0,0,1,0,1,0,0,1,0
+449,17,"['Paris Agreement', 'Executive action', 'Renewable energy']",1,0,1,0,0,1,0,0,0
+449,16,"['Paris Agreement', 'Executive action', 'Renewable energy']",1,0,1,0,0,1,0,0,0
+451,17,"['Emergency declaration', '(De)regulation and laws', 'Emission reduction', 'Oil and gas industry']",0,0,0,1,1,0,1,1,0
+451,16,"['Emergency declaration', '(De)regulation and laws', 'Emission reduction', 'Oil and gas industry']",0,0,0,1,1,0,1,1,0
+452,17,"['Executive action', '(De)regulation and laws', 'Emission reduction', 'Oil and gas industry']",0,0,1,0,1,0,1,1,0
+452,16,"['Executive action', '(De)regulation and laws', 'Emission reduction', 'Oil and gas industry']",0,0,1,0,1,0,1,1,0
+453,17,"['Executive action', '(De)regulation and laws', 'Emission reduction', 'Oil and gas industry']",0,0,1,0,1,0,1,1,0
+453,16,"['Executive action', '(De)regulation and laws', 'Emission reduction', 'Oil and gas industry']",0,0,1,0,1,0,1,1,0
+454,17,['Paris Agreement'],1,0,0,0,0,0,0,0,0
+454,16,['Paris Agreement'],1,0,0,0,0,0,0,0,0
+466,17,"['Green New Deal', 'Executive action', '(De)regulation and laws', 'Renewable energy', 'Emission reduction']",0,1,1,0,1,1,1,0,0
+466,16,"['Green New Deal', 'Executive action', '(De)regulation and laws', 'Renewable energy', 'Emission reduction']",0,1,1,0,1,1,1,0,0
+481,17,"['(De)regulation and laws', 'Emission reduction']",0,0,0,0,1,0,1,0,0
+481,16,"['(De)regulation and laws', 'Emission reduction']",0,0,0,0,1,0,1,0,0
+485,17,"['Executive action', '(De)regulation and laws', 'Emission reduction']",0,0,1,0,1,0,1,0,0
+485,16,"['Executive action', '(De)regulation and laws', 'Emission reduction']",0,0,1,0,1,0,1,0,0
+489,18,"['Paris Agreement', 'Emission reduction', 'Other climate policy']",1,0,0,0,0,0,1,0,1
+489,17,"['Paris Agreement', 'Emission reduction', 'Other climate policy']",1,0,0,0,0,0,1,0,1
+490,18,"['Paris Agreement', 'Executive action', 'Oil and gas industry']",1,0,1,0,0,0,0,1,0
+490,17,"['Paris Agreement', 'Executive action', 'Oil and gas industry']",1,0,1,0,0,0,0,1,0
+492,18,"['Executive action', '(De)regulation and laws', 'Renewable energy', 'Emission reduction']",0,0,1,0,1,1,1,0,0
+492,17,"['Executive action', '(De)regulation and laws', 'Renewable energy', 'Emission reduction']",0,0,1,0,1,1,1,0,0
+493,18,"['Paris Agreement', 'Executive action', 'Renewable energy']",1,0,1,0,0,1,0,0,0
+493,17,"['Paris Agreement', 'Executive action', 'Renewable energy']",1,0,1,0,0,1,0,0,0
+496,18,"['Green New Deal', 'Emission reduction', 'Other climate policy']",0,1,0,0,0,0,1,0,1
+496,17,"['Green New Deal', 'Emission reduction']",0,1,0,0,0,0,1,0,0
+509,18,"['Paris Agreement', 'Executive action', 'Emergency declaration', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",1,0,1,1,0,1,1,1,0
+509,17,"['Paris Agreement', 'Executive action', 'Emergency declaration', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",1,0,1,1,0,1,1,1,0
+514,18,"['Executive action', '(De)regulation and laws', 'Emission reduction']",0,0,1,0,1,0,1,0,0
+514,17,"['Executive action', '(De)regulation and laws', 'Emission reduction']",0,0,1,0,1,0,1,0,0
+515,18,"['Paris Agreement', 'Green New Deal', 'Renewable energy', 'Emission reduction', 'Other climate policy']",1,1,0,0,0,1,1,0,1
+515,17,"['Paris Agreement', 'Green New Deal', 'Renewable energy', 'Emission reduction']",1,1,0,0,0,1,1,0,0
+516,18,"['Paris Agreement', 'Executive action', '(De)regulation and laws', 'Emission reduction', 'Oil and gas industry']",1,0,1,0,1,0,1,1,0
+516,17,"['Paris Agreement', 'Executive action', '(De)regulation and laws', 'Emission reduction', 'Oil and gas industry']",1,0,1,0,1,0,1,1,0
+526,18,"['Executive action', 'Renewable energy', 'Emission reduction']",0,0,1,0,0,1,1,0,0
+526,17,"['Executive action', 'Renewable energy', 'Emission reduction']",0,0,1,0,0,1,1,0,0
+529,18,"['Emergency declaration', 'Renewable energy', 'Other climate policy']",0,0,0,1,0,1,0,0,1
+529,17,"['Emergency declaration', 'Renewable energy', 'Other climate policy']",0,0,0,1,0,1,0,0,1
+542,18,"['Green New Deal', 'Emission reduction', 'Oil and gas industry', 'Other climate policy']",0,1,0,0,0,0,1,1,1
+542,17,"['Green New Deal', 'Emission reduction', 'Oil and gas industry']",0,1,0,0,0,0,1,1,0
+544,18,"['Green New Deal', 'Executive action', 'Renewable energy', 'Oil and gas industry']",0,1,1,0,0,1,0,1,0
+544,17,"['Green New Deal', 'Executive action', 'Renewable energy', 'Oil and gas industry']",0,1,1,0,0,1,0,1,0
+554,18,"['Emission reduction', 'Oil and gas industry']",0,0,0,0,0,0,1,1,0
+554,17,"['Emission reduction', 'Oil and gas industry']",0,0,0,0,0,0,1,1,0
+561,18,"['Paris Agreement', 'Emission reduction']",1,0,0,0,0,0,1,0,0
+561,17,"['Paris Agreement', 'Emission reduction']",1,0,0,0,0,0,1,0,0
+580,18,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+580,17,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+633,18,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+633,17,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+634,18,"['Green New Deal', 'Emission reduction', 'Oil and gas industry']",0,1,0,0,0,0,1,1,0
+634,17,"['Green New Deal', 'Emission reduction', 'Oil and gas industry']",0,1,0,0,0,0,1,1,0
+638,18,"['Green New Deal', 'Renewable energy']",0,1,0,0,0,1,0,0,0
+638,17,"['Green New Deal', 'Renewable energy', 'Other climate policy']",0,1,0,0,0,1,0,0,1
+641,18,"['Paris Agreement', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",1,0,0,0,0,1,1,1,0
+641,17,"['Paris Agreement', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",1,0,0,0,0,1,1,1,0
+675,18,"['Paris Agreement', 'Other climate policy']",1,0,0,0,0,0,0,0,1
+675,17,"['Paris Agreement', 'Other climate policy']",1,0,0,0,0,0,0,0,1
+684,18,"['Paris Agreement', 'Executive action', 'Other climate policy']",1,0,1,0,0,0,0,0,1
+684,17,"['Paris Agreement', 'Executive action', 'Other climate policy']",1,0,1,0,0,0,0,0,1
+685,18,['Oil and gas industry'],0,0,0,0,0,0,0,1,0
+685,17,['Oil and gas industry'],0,0,0,0,0,0,0,1,0
+699,18,"['Paris Agreement', 'Executive action', '(De)regulation and laws', 'Other climate policy']",1,0,1,0,1,0,0,0,1
+699,17,"['Paris Agreement', 'Executive action', '(De)regulation and laws', 'Other climate policy']",1,0,1,0,1,0,0,0,1
+703,18,"['Green New Deal', '(De)regulation and laws']",0,1,0,0,1,0,0,0,0
+703,17,"['Green New Deal', '(De)regulation and laws']",0,1,0,0,1,0,0,0,0
+704,18,[],0,0,0,0,0,0,0,0,0
+704,17,[],0,0,0,0,0,0,0,0,0
+706,18,['Green New Deal'],0,1,0,0,0,0,0,0,0
+706,17,['Green New Deal'],0,1,0,0,0,0,0,0,0
+707,18,"['Executive action', '(De)regulation and laws', 'Emission reduction', 'Other climate policy']",0,0,1,0,1,0,1,0,1
+707,17,"['Executive action', '(De)regulation and laws', 'Emission reduction', 'Other climate policy']",0,0,1,0,1,0,1,0,1
+708,18,"['Executive action', '(De)regulation and laws', 'Emission reduction', 'Other climate policy']",0,0,1,0,1,0,1,0,1
+708,17,"['Executive action', '(De)regulation and laws', 'Renewable energy', 'Emission reduction', 'Oil and gas industry', 'Other climate policy']",0,0,1,0,1,1,1,1,1
+709,18,"['Executive action', 'Other climate policy']",0,0,1,0,0,0,0,0,1
+709,17,['Executive action'],0,0,1,0,0,0,0,0,0
+710,18,"['Executive action', 'Renewable energy']",0,0,1,0,0,1,0,0,0
+710,17,"['Executive action', 'Renewable energy']",0,0,1,0,0,1,0,0,0
+711,18,['Executive action'],0,0,1,0,0,0,0,0,0
+711,17,['Executive action'],0,0,1,0,0,0,0,0,0
+714,18,"['Executive action', 'Renewable energy', 'Oil and gas industry']",0,0,1,0,0,1,0,1,0
+714,17,"['Executive action', 'Renewable energy', 'Oil and gas industry']",0,0,1,0,0,1,0,1,0
+715,18,"['Executive action', 'Renewable energy']",0,0,1,0,0,1,0,0,0
+715,17,"['Executive action', 'Renewable energy']",0,0,1,0,0,1,0,0,0
+716,18,"['Executive action', 'Other climate policy']",0,0,1,0,0,0,0,0,1
+716,17,"['Executive action', '(De)regulation and laws', 'Other climate policy']",0,0,1,0,1,0,0,0,1
+717,18,['Oil and gas industry'],0,0,0,0,0,0,0,1,0
+717,17,['Oil and gas industry'],0,0,0,0,0,0,0,1,0
+718,18,"['Paris Agreement', 'Executive action', '(De)regulation and laws', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",1,0,1,0,1,1,1,1,0
+718,17,"['Paris Agreement', 'Executive action', '(De)regulation and laws', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",1,0,1,0,1,1,1,1,0
+734,18,"['Executive action', 'Emission reduction', 'Oil and gas industry']",0,0,1,0,0,0,1,1,0
+734,17,"['Executive action', 'Emission reduction', 'Oil and gas industry']",0,0,1,0,0,0,1,1,0
+735,18,"['Green New Deal', 'Executive action', 'Oil and gas industry']",0,1,1,0,0,0,0,1,0
+735,17,"['Green New Deal', 'Executive action', 'Oil and gas industry']",0,1,1,0,0,0,0,1,0
+738,18,"['(De)regulation and laws', 'Emission reduction', 'Oil and gas industry']",0,0,0,0,1,0,1,1,0
+738,17,"['(De)regulation and laws', 'Emission reduction', 'Oil and gas industry']",0,0,0,0,1,0,1,1,0
+742,18,"['Executive action', 'Emission reduction', 'Oil and gas industry']",0,0,1,0,0,0,1,1,0
+742,17,"['Executive action', 'Oil and gas industry']",0,0,1,0,0,0,0,1,0
+743,19,"['(De)regulation and laws', 'Renewable energy', 'Oil and gas industry']",0,0,0,0,1,1,0,1,0
+743,17,"['(De)regulation and laws', 'Renewable energy', 'Oil and gas industry']",0,0,0,0,1,1,0,1,0
+750,19,"['Green New Deal', 'Executive action', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",0,1,1,0,0,1,1,1,0
+750,17,"['Green New Deal', 'Executive action', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",0,1,1,0,0,1,1,1,0
+751,19,"['Executive action', 'Renewable energy', 'Oil and gas industry']",0,0,1,0,0,1,0,1,0
+751,17,"['Executive action', 'Renewable energy', 'Oil and gas industry']",0,0,1,0,0,1,0,1,0
+753,19,"['Executive action', '(De)regulation and laws', 'Renewable energy', 'Oil and gas industry']",0,0,1,0,1,1,0,1,0
+753,17,"['Executive action', '(De)regulation and laws', 'Renewable energy', 'Oil and gas industry']",0,0,1,0,1,1,0,1,0
+754,19,"['Executive action', 'Emission reduction', 'Oil and gas industry']",0,0,1,0,0,0,1,1,0
+754,17,"['Executive action', 'Emission reduction', 'Oil and gas industry']",0,0,1,0,0,0,1,1,0
+755,19,"['Executive action', '(De)regulation and laws', 'Renewable energy']",0,0,1,0,1,1,0,0,0
+755,17,"['Executive action', '(De)regulation and laws', 'Renewable energy']",0,0,1,0,1,1,0,0,0
+756,19,"['Paris Agreement', 'Green New Deal', '(De)regulation and laws', 'Renewable energy', 'Oil and gas industry', 'Other climate policy']",1,1,0,0,1,1,0,1,1
+756,17,"['Paris Agreement', 'Green New Deal', '(De)regulation and laws', 'Renewable energy', 'Oil and gas industry', 'Other climate policy']",1,1,0,0,1,1,0,1,1
+757,19,"['Paris Agreement', 'Executive action', '(De)regulation and laws', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",1,0,1,0,1,1,1,1,0
+757,17,"['Paris Agreement', 'Executive action', '(De)regulation and laws', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",1,0,1,0,1,1,1,1,0
+761,19,"['Green New Deal', 'Executive action', 'Renewable energy', 'Oil and gas industry']",0,1,1,0,0,1,0,1,0
+761,17,"['Green New Deal', 'Executive action', 'Renewable energy', 'Oil and gas industry']",0,1,1,0,0,1,0,1,0
+764,19,"['Executive action', '(De)regulation and laws', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",0,0,1,0,1,1,1,1,0
+764,17,"['Executive action', '(De)regulation and laws', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",0,0,1,0,1,1,1,1,0
+766,19,"['Executive action', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",0,0,1,0,0,1,1,1,0
+766,17,"['Executive action', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",0,0,1,0,0,1,1,1,0
+768,19,"['Executive action', 'Oil and gas industry']",0,0,1,0,0,0,0,1,0
+768,17,"['Executive action', 'Oil and gas industry']",0,0,1,0,0,0,0,1,0
+769,19,"['Renewable energy', 'Emission reduction', 'Oil and gas industry']",0,0,0,0,0,1,1,1,0
+769,17,"['Renewable energy', 'Emission reduction', 'Oil and gas industry']",0,0,0,0,0,1,1,1,0
+777,19,"['Paris Agreement', 'Renewable energy', 'Emission reduction']",1,0,0,0,0,1,1,0,0
+777,17,"['Paris Agreement', 'Renewable energy', 'Emission reduction']",1,0,0,0,0,1,1,0,0
+778,19,"['Executive action', 'Renewable energy', 'Oil and gas industry', 'Other climate policy']",0,0,1,0,0,1,0,1,1
+778,17,"['Executive action', 'Renewable energy', 'Oil and gas industry', 'Other climate policy']",0,0,1,0,0,1,0,1,1
+779,19,"['Executive action', '(De)regulation and laws', 'Renewable energy', 'Oil and gas industry']",0,0,1,0,1,1,0,1,0
+779,17,"['Executive action', '(De)regulation and laws', 'Renewable energy', 'Oil and gas industry']",0,0,1,0,1,1,0,1,0
+786,19,"['Executive action', '(De)regulation and laws', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",0,0,1,0,1,1,1,1,0
+786,17,"['Executive action', '(De)regulation and laws', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",0,0,1,0,1,1,1,1,0
+788,19,"['Executive action', '(De)regulation and laws', 'Oil and gas industry']",0,0,1,0,1,0,0,1,0
+788,17,"['Executive action', '(De)regulation and laws', 'Oil and gas industry']",0,0,1,0,1,0,0,1,0
+789,19,"['Executive action', '(De)regulation and laws', 'Renewable energy', 'Emission reduction', 'Oil and gas industry', 'Other climate policy']",0,0,1,0,1,1,1,1,1
+789,17,"['Executive action', '(De)regulation and laws', 'Renewable energy', 'Emission reduction', 'Oil and gas industry', 'Other climate policy']",0,0,1,0,1,1,1,1,1
+791,19,"['Executive action', '(De)regulation and laws', 'Emission reduction', 'Oil and gas industry']",0,0,1,0,1,0,1,1,0
+791,17,"['Executive action', '(De)regulation and laws', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",0,0,1,0,1,1,1,1,0
+792,19,"['Renewable energy', 'Oil and gas industry']",0,0,0,0,0,1,0,1,0
+792,17,"['Renewable energy', 'Oil and gas industry']",0,0,0,0,0,1,0,1,0
+793,19,"['Green New Deal', 'Executive action', 'Other climate policy']",0,1,1,0,0,0,0,0,1
+793,17,"['Green New Deal', 'Executive action', 'Other climate policy']",0,1,1,0,0,0,0,0,1
+795,19,"['Executive action', 'Renewable energy']",0,0,1,0,0,1,0,0,0
+795,17,"['Executive action', 'Renewable energy']",0,0,1,0,0,1,0,0,0
+797,18,"['Executive action', 'Renewable energy', 'Oil and gas industry']",0,0,1,0,0,1,0,1,0
+797,19,"['Executive action', 'Renewable energy', 'Oil and gas industry']",0,0,1,0,0,1,0,1,0
+798,19,"['Paris Agreement', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",1,0,0,0,0,1,1,1,0
+798,17,"['Paris Agreement', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",1,0,0,0,0,1,1,1,0
+807,19,"['Executive action', 'Renewable energy']",0,0,1,0,0,1,0,0,0
+807,17,"['Executive action', 'Renewable energy']",0,0,1,0,0,1,0,0,0
+817,19,"['Executive action', '(De)regulation and laws', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",0,0,1,0,1,1,1,1,0
+817,17,"['Executive action', '(De)regulation and laws', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",0,0,1,0,1,1,1,1,0
+819,19,"['Executive action', '(De)regulation and laws', 'Renewable energy']",0,0,1,0,1,1,0,0,0
+819,17,"['Executive action', '(De)regulation and laws', 'Renewable energy']",0,0,1,0,1,1,0,0,0
+828,19,"['Executive action', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",0,0,1,0,0,1,1,1,0
+828,17,"['Green New Deal', 'Executive action', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",0,1,1,0,0,1,1,1,0
+832,19,"['Green New Deal', 'Executive action']",0,1,1,0,0,0,0,0,0
+832,17,"['Green New Deal', 'Executive action']",0,1,1,0,0,0,0,0,0
+833,19,"['Green New Deal', 'Executive action']",0,1,1,0,0,0,0,0,0
+833,17,"['Green New Deal', 'Executive action']",0,1,1,0,0,0,0,0,0
+838,19,['Other climate policy'],0,0,0,0,0,0,0,0,1
+838,17,['Other climate policy'],0,0,0,0,0,0,0,0,1
+839,19,['Other climate policy'],0,0,0,0,0,0,0,0,1
+839,17,['Other climate policy'],0,0,0,0,0,0,0,0,1
+856,19,"['Paris Agreement', 'Green New Deal', 'Emergency declaration', 'Emission reduction', 'Oil and gas industry', 'Other climate policy']",1,1,0,1,0,0,1,1,1
+856,17,"['Paris Agreement', 'Green New Deal', 'Executive action', 'Renewable energy', 'Emission reduction', 'Oil and gas industry', 'Other climate policy']",1,1,1,0,0,1,1,1,1
+865,19,"['Paris Agreement', 'Executive action', 'Emission reduction']",1,0,1,0,0,0,1,0,0
+865,17,"['Paris Agreement', 'Executive action', 'Emission reduction']",1,0,1,0,0,0,1,0,0
+869,19,"['Executive action', '(De)regulation and laws', 'Other climate policy']",0,0,1,0,1,0,0,0,1
+869,17,"['Executive action', '(De)regulation and laws', 'Other climate policy']",0,0,1,0,1,0,0,0,1
+877,19,"['Executive action', 'Renewable energy', 'Oil and gas industry', 'Other climate policy']",0,0,1,0,0,1,0,1,1
+877,17,"['Executive action', 'Renewable energy', 'Oil and gas industry', 'Other climate policy']",0,0,1,0,0,1,0,1,1
+885,19,"['Green New Deal', 'Executive action']",0,1,1,0,0,0,0,0,0
+885,17,"['Green New Deal', 'Executive action']",0,1,1,0,0,0,0,0,0
+886,19,"['Green New Deal', 'Executive action', 'Emission reduction', 'Oil and gas industry']",0,1,1,0,0,0,1,1,0
+886,17,"['Green New Deal', 'Executive action', 'Emission reduction', 'Oil and gas industry']",0,1,1,0,0,0,1,1,0
+888,19,"['Paris Agreement', 'Green New Deal']",1,1,0,0,0,0,0,0,0
+888,17,"['Paris Agreement', 'Green New Deal']",1,1,0,0,0,0,0,0,0
+893,19,"['Green New Deal', 'Executive action', '(De)regulation and laws', 'Renewable energy', 'Emission reduction']",0,1,1,0,1,1,1,0,0
+893,17,"['Green New Deal', 'Executive action', '(De)regulation and laws', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",0,1,1,0,1,1,1,1,0
+895,19,"['Green New Deal', 'Executive action']",0,1,1,0,0,0,0,0,0
+895,17,"['Green New Deal', 'Executive action']",0,1,1,0,0,0,0,0,0
+898,19,"['Green New Deal', 'Executive action', 'Emission reduction']",0,1,1,0,0,0,1,0,0
+898,17,"['Green New Deal', 'Executive action', 'Emission reduction']",0,1,1,0,0,0,1,0,0
+907,19,['Other climate policy'],0,0,0,0,0,0,0,0,1
+907,17,['Other climate policy'],0,0,0,0,0,0,0,0,1
+911,17,"['Green New Deal', 'Executive action', 'Renewable energy', 'Emission reduction', 'Other climate policy']",0,1,1,0,0,1,1,0,1
+911,18,"['Green New Deal', 'Executive action', 'Renewable energy', 'Emission reduction', 'Other climate policy']",0,1,1,0,0,1,1,0,1
+913,17,['Executive action'],0,0,1,0,0,0,0,0,0
+913,18,['Executive action'],0,0,1,0,0,0,0,0,0
+914,17,"['Paris Agreement', 'Renewable energy', 'Oil and gas industry', 'Other climate policy']",1,0,0,0,0,1,0,1,1
+914,18,"['Paris Agreement', 'Renewable energy', 'Oil and gas industry', 'Other climate policy']",1,0,0,0,0,1,0,1,1
+917,17,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+917,18,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+920,17,"['Executive action', 'Renewable energy']",0,0,1,0,0,1,0,0,0
+920,18,['Renewable energy'],0,0,0,0,0,1,0,0,0
+924,17,"['Paris Agreement', 'Green New Deal', 'Executive action', 'Renewable energy', 'Oil and gas industry']",1,1,1,0,0,1,0,1,0
+924,18,"['Paris Agreement', 'Green New Deal', 'Executive action']",1,1,1,0,0,0,0,0,0
+928,17,"['Paris Agreement', 'Executive action', 'Renewable energy', 'Emission reduction']",1,0,1,0,0,1,1,0,0
+928,18,"['Paris Agreement', 'Executive action', 'Emission reduction']",1,0,1,0,0,0,1,0,0
+932,17,['Emission reduction'],0,0,0,0,0,0,1,0,0
+932,18,['Emission reduction'],0,0,0,0,0,0,1,0,0
+933,17,"['Paris Agreement', 'Executive action', 'Renewable energy']",1,0,1,0,0,1,0,0,0
+933,18,"['Paris Agreement', 'Executive action', 'Renewable energy']",1,0,1,0,0,1,0,0,0
+934,17,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+934,18,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+935,17,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+935,18,"['Paris Agreement', 'Executive action', 'Other climate policy']",1,0,1,0,0,0,0,0,1
+939,17,"['(De)regulation and laws', 'Renewable energy', 'Oil and gas industry']",0,0,0,0,1,1,0,1,0
+939,18,"['(De)regulation and laws', 'Renewable energy', 'Oil and gas industry']",0,0,0,0,1,1,0,1,0
+940,17,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+940,18,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+941,17,['Executive action'],0,0,1,0,0,0,0,0,0
+941,18,['Executive action'],0,0,1,0,0,0,0,0,0
+943,17,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+943,18,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+945,17,"['Paris Agreement', 'Executive action', 'Other climate policy']",1,0,1,0,0,0,0,0,1
+945,18,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+947,17,"['Executive action', 'Oil and gas industry']",0,0,1,0,0,0,0,1,0
+947,18,"['Executive action', 'Oil and gas industry']",0,0,1,0,0,0,0,1,0
+948,17,"['Paris Agreement', 'Executive action', 'Emission reduction']",1,0,1,0,0,0,1,0,0
+948,18,"['Paris Agreement', 'Executive action', 'Emission reduction']",1,0,1,0,0,0,1,0,0
+951,17,"['Paris Agreement', 'Executive action', 'Oil and gas industry']",1,0,1,0,0,0,0,1,0
+951,18,"['Paris Agreement', 'Executive action', 'Oil and gas industry']",1,0,1,0,0,0,0,1,0
+952,17,"['Paris Agreement', 'Executive action', 'Renewable energy', 'Emission reduction', 'Oil and gas industry', 'Other climate policy']",1,0,1,0,0,1,1,1,1
+952,18,"['Paris Agreement', 'Executive action', 'Renewable energy', 'Emission reduction', 'Oil and gas industry', 'Other climate policy']",1,0,1,0,0,1,1,1,1
+958,17,"['Executive action', 'Oil and gas industry']",0,0,1,0,0,0,0,1,0
+958,18,"['Executive action', 'Oil and gas industry']",0,0,1,0,0,0,0,1,0
+959,17,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+959,18,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+963,17,"['Paris Agreement', 'Executive action', 'Oil and gas industry']",1,0,1,0,0,0,0,1,0
+963,18,"['Paris Agreement', 'Executive action', 'Oil and gas industry']",1,0,1,0,0,0,0,1,0
+965,17,"['Paris Agreement', 'Other climate policy']",1,0,0,0,0,0,0,0,1
+965,18,"['Paris Agreement', 'Other climate policy']",1,0,0,0,0,0,0,0,1
+966,17,"['Paris Agreement', 'Green New Deal', 'Executive action', 'Renewable energy', 'Oil and gas industry']",1,1,1,0,0,1,0,1,0
+966,18,"['Paris Agreement', 'Green New Deal', 'Executive action', 'Renewable energy', 'Oil and gas industry']",1,1,1,0,0,1,0,1,0
+967,17,"['Paris Agreement', 'Executive action', '(De)regulation and laws']",1,0,1,0,1,0,0,0,0
+967,18,"['Paris Agreement', 'Executive action', '(De)regulation and laws', 'Other climate policy']",1,0,1,0,1,0,0,0,1
+972,17,"['Executive action', 'Oil and gas industry']",0,0,1,0,0,0,0,1,0
+972,18,"['Executive action', 'Oil and gas industry']",0,0,1,0,0,0,0,1,0
+975,17,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+975,18,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+977,17,['Executive action'],0,0,1,0,0,0,0,0,0
+977,18,['Executive action'],0,0,1,0,0,0,0,0,0
+978,17,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+978,18,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+979,17,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+979,18,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+980,17,['Executive action'],0,0,1,0,0,0,0,0,0
+980,18,['Executive action'],0,0,1,0,0,0,0,0,0
+982,17,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+982,18,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+984,17,['Paris Agreement'],1,0,0,0,0,0,0,0,0
+984,18,['Paris Agreement'],1,0,0,0,0,0,0,0,0
+989,17,"['Executive action', 'Emission reduction']",0,0,1,0,0,0,1,0,0
+989,18,"['Executive action', 'Emission reduction']",0,0,1,0,0,0,1,0,0
+992,17,"['Green New Deal', 'Executive action', 'Oil and gas industry']",0,1,1,0,0,0,0,1,0
+992,18,"['Green New Deal', 'Executive action', 'Emission reduction', 'Oil and gas industry']",0,1,1,0,0,0,1,1,0
+997,17,"['Paris Agreement', 'Green New Deal', 'Executive action', 'Renewable energy', 'Oil and gas industry']",1,1,1,0,0,1,0,1,0
+997,18,"['Paris Agreement', 'Green New Deal', 'Executive action', 'Oil and gas industry']",1,1,1,0,0,0,0,1,0
+1003,17,"['Green New Deal', 'Oil and gas industry']",0,1,0,0,0,0,0,1,0
+1003,18,"['Green New Deal', 'Oil and gas industry']",0,1,0,0,0,0,0,1,0
+1004,17,['Green New Deal'],0,1,0,0,0,0,0,0,0
+1004,18,['Green New Deal'],0,1,0,0,0,0,0,0,0
+1005,17,"['Green New Deal', 'Renewable energy']",0,1,0,0,0,1,0,0,0
+1005,18,"['Green New Deal', 'Renewable energy']",0,1,0,0,0,1,0,0,0
+1006,17,"['Paris Agreement', 'Green New Deal', '(De)regulation and laws', 'Emission reduction']",1,1,0,0,1,0,1,0,0
+1006,18,"['Paris Agreement', 'Green New Deal', '(De)regulation and laws', 'Emission reduction']",1,1,0,0,1,0,1,0,0
+1007,18,"['Paris Agreement', 'Emission reduction']",1,0,0,0,0,0,1,0,0
+1007,17,"['Paris Agreement', 'Emission reduction']",1,0,0,0,0,0,1,0,0
+1008,18,"['Executive action', 'Oil and gas industry', 'Other climate policy']",0,0,1,0,0,0,0,1,1
+1008,17,"['Executive action', 'Other climate policy']",0,0,1,0,0,0,0,0,1
+1010,18,['Executive action'],0,0,1,0,0,0,0,0,0
+1010,17,"['Executive action', 'Other climate policy']",0,0,1,0,0,0,0,0,1
+1011,18,"['Emission reduction', 'Oil and gas industry']",0,0,0,0,0,0,1,1,0
+1011,17,"['Renewable energy', 'Emission reduction', 'Oil and gas industry']",0,0,0,0,0,1,1,1,0
+1012,18,"['Executive action', 'Oil and gas industry']",0,0,1,0,0,0,0,1,0
+1012,17,"['Executive action', 'Oil and gas industry']",0,0,1,0,0,0,0,1,0
+1025,18,"['Paris Agreement', 'Renewable energy', 'Oil and gas industry']",1,0,0,0,0,1,0,1,0
+1025,17,"['Paris Agreement', 'Renewable energy', 'Oil and gas industry']",1,0,0,0,0,1,0,1,0
+1029,18,['Other climate policy'],0,0,0,0,0,0,0,0,1
+1029,17,['Other climate policy'],0,0,0,0,0,0,0,0,1
+1032,18,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1032,17,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1036,18,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1036,17,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1037,18,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1037,17,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1038,18,"['Paris Agreement', 'Green New Deal', 'Executive action', 'Emission reduction', 'Oil and gas industry']",1,1,1,0,0,0,1,1,0
+1038,17,"['Paris Agreement', 'Green New Deal', 'Executive action', 'Emission reduction', 'Oil and gas industry']",1,1,1,0,0,0,1,1,0
+1044,18,['Other climate policy'],0,0,0,0,0,0,0,0,1
+1044,17,['Other climate policy'],0,0,0,0,0,0,0,0,1
+1045,18,"['Emission reduction', 'Other climate policy']",0,0,0,0,0,0,1,0,1
+1045,17,"['Emission reduction', 'Other climate policy']",0,0,0,0,0,0,1,0,1
+1046,18,"['Green New Deal', 'Executive action']",0,1,1,0,0,0,0,0,0
+1046,17,"['Green New Deal', 'Executive action']",0,1,1,0,0,0,0,0,0
+1047,18,"['Paris Agreement', 'Executive action', '(De)regulation and laws', 'Emission reduction', 'Other climate policy']",1,0,1,0,1,0,1,0,1
+1047,17,"['Paris Agreement', 'Executive action', '(De)regulation and laws', 'Emission reduction']",1,0,1,0,1,0,1,0,0
+1049,18,"['Executive action', 'Renewable energy', 'Oil and gas industry']",0,0,1,0,0,1,0,1,0
+1049,17,"['Executive action', 'Renewable energy', 'Oil and gas industry']",0,0,1,0,0,1,0,1,0
+1050,18,['Executive action'],0,0,1,0,0,0,0,0,0
+1050,17,['Executive action'],0,0,1,0,0,0,0,0,0
+1058,18,"['Paris Agreement', 'Executive action', 'Emergency declaration']",1,0,1,1,0,0,0,0,0
+1058,17,"['Paris Agreement', 'Executive action', 'Emergency declaration', 'Other climate policy']",1,0,1,1,0,0,0,0,1
+1062,18,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1062,17,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1063,18,"['Executive action', 'Other climate policy']",0,0,1,0,0,0,0,0,1
+1063,17,"['Executive action', 'Other climate policy']",0,0,1,0,0,0,0,0,1
+1064,18,"['Paris Agreement', 'Green New Deal', 'Executive action']",1,1,1,0,0,0,0,0,0
+1064,17,"['Green New Deal', 'Executive action']",0,1,1,0,0,0,0,0,0
+1065,18,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1065,17,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1066,18,"['Executive action', 'Renewable energy']",0,0,1,0,0,1,0,0,0
+1066,17,"['Executive action', 'Renewable energy']",0,0,1,0,0,1,0,0,0
+1067,18,['Other climate policy'],0,0,0,0,0,0,0,0,1
+1067,17,['Other climate policy'],0,0,0,0,0,0,0,0,1
+1071,18,"['Green New Deal', 'Executive action', 'Oil and gas industry', 'Other climate policy']",0,1,1,0,0,0,0,1,1
+1071,17,"['Green New Deal', 'Executive action', 'Oil and gas industry', 'Other climate policy']",0,1,1,0,0,0,0,1,1
+1075,18,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1075,17,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1076,18,[],0,0,0,0,0,0,0,0,0
+1076,17,[],0,0,0,0,0,0,0,0,0
+1078,18,['Executive action'],0,0,1,0,0,0,0,0,0
+1078,17,['Executive action'],0,0,1,0,0,0,0,0,0
+1079,18,['Executive action'],0,0,1,0,0,0,0,0,0
+1079,17,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1080,17,"['Green New Deal', 'Executive action']",0,1,1,0,0,0,0,0,0
+1080,18,"['Green New Deal', 'Executive action']",0,1,1,0,0,0,0,0,0
+1081,17,"['Green New Deal', 'Executive action']",0,1,1,0,0,0,0,0,0
+1081,18,"['Green New Deal', 'Executive action']",0,1,1,0,0,0,0,0,0
+1082,17,"['Paris Agreement', 'Executive action', 'Emission reduction']",1,0,1,0,0,0,1,0,0
+1082,18,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1083,17,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1083,18,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1088,17,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1088,18,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1089,17,"['Paris Agreement', 'Green New Deal', 'Oil and gas industry']",1,1,0,0,0,0,0,1,0
+1089,18,"['Paris Agreement', 'Green New Deal', 'Oil and gas industry']",1,1,0,0,0,0,0,1,0
+1093,17,"['Executive action', 'Renewable energy']",0,0,1,0,0,1,0,0,0
+1093,18,['Renewable energy'],0,0,0,0,0,1,0,0,0
+1096,17,['Executive action'],0,0,1,0,0,0,0,0,0
+1096,18,['Executive action'],0,0,1,0,0,0,0,0,0
+1102,17,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1102,18,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1103,17,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1103,18,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1104,17,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1104,18,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1106,18,['Executive action'],0,0,1,0,0,0,0,0,0
+1106,17,['Executive action'],0,0,1,0,0,0,0,0,0
+1108,18,"['Executive action', 'Emission reduction']",0,0,1,0,0,0,1,0,0
+1108,17,"['Executive action', 'Emission reduction']",0,0,1,0,0,0,1,0,0
+1109,18,"['Paris Agreement', 'Green New Deal', 'Executive action', 'Oil and gas industry']",1,1,1,0,0,0,0,1,0
+1109,17,"['Paris Agreement', 'Green New Deal', 'Executive action', 'Oil and gas industry']",1,1,1,0,0,0,0,1,0
+1113,18,"['Paris Agreement', 'Green New Deal', 'Executive action', 'Oil and gas industry']",1,1,1,0,0,0,0,1,0
+1113,17,"['Paris Agreement', 'Green New Deal', 'Executive action', 'Oil and gas industry']",1,1,1,0,0,0,0,1,0
+1114,18,"['Paris Agreement', 'Green New Deal', 'Executive action', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",1,1,1,0,0,1,1,1,0
+1114,17,"['Paris Agreement', 'Green New Deal', 'Executive action', 'Renewable energy', 'Oil and gas industry']",1,1,1,0,0,1,0,1,0
+1115,18,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1115,17,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1119,18,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1119,17,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1125,18,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1125,17,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1126,18,"['Executive action', 'Renewable energy']",0,0,1,0,0,1,0,0,0
+1126,17,"['Executive action', 'Renewable energy']",0,0,1,0,0,1,0,0,0
+1130,18,"['Executive action', 'Renewable energy', 'Oil and gas industry']",0,0,1,0,0,1,0,1,0
+1130,17,"['Executive action', 'Renewable energy', 'Oil and gas industry']",0,0,1,0,0,1,0,1,0
+1131,18,['Renewable energy'],0,0,0,0,0,1,0,0,0
+1131,17,"['Executive action', 'Renewable energy']",0,0,1,0,0,1,0,0,0
+1132,18,"['Executive action', 'Renewable energy']",0,0,1,0,0,1,0,0,0
+1132,17,"['Executive action', 'Renewable energy']",0,0,1,0,0,1,0,0,0
+1133,18,"['Green New Deal', 'Renewable energy', 'Oil and gas industry']",0,1,0,0,0,1,0,1,0
+1133,17,"['Green New Deal', 'Renewable energy', 'Oil and gas industry']",0,1,0,0,0,1,0,1,0
+1135,18,['Other climate policy'],0,0,0,0,0,0,0,0,1
+1135,17,[],0,0,0,0,0,0,0,0,0
+1136,18,"['Paris Agreement', 'Executive action', '(De)regulation and laws', 'Renewable energy']",1,0,1,0,1,1,0,0,0
+1136,17,"['Paris Agreement', 'Executive action', '(De)regulation and laws', 'Renewable energy']",1,0,1,0,1,1,0,0,0
+1140,18,"['Paris Agreement', 'Green New Deal', 'Executive action']",1,1,1,0,0,0,0,0,0
+1140,17,"['Paris Agreement', 'Green New Deal', 'Executive action', 'Other climate policy']",1,1,1,0,0,0,0,0,1
+1145,18,"['Paris Agreement', 'Executive action', '(De)regulation and laws', 'Oil and gas industry']",1,0,1,0,1,0,0,1,0
+1145,17,"['Executive action', '(De)regulation and laws', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",0,0,1,0,1,1,1,1,0
+1153,18,"['Green New Deal', 'Executive action', 'Emergency declaration', 'Emission reduction']",0,1,1,1,0,0,1,0,0
+1153,17,"['Green New Deal', 'Executive action', 'Emergency declaration', 'Emission reduction']",0,1,1,1,0,0,1,0,0
+1166,18,"['Paris Agreement', 'Renewable energy', 'Emission reduction', 'Other climate policy']",1,0,0,0,0,1,1,0,1
+1166,17,"['Paris Agreement', 'Renewable energy', 'Emission reduction']",1,0,0,0,0,1,1,0,0
+1168,18,"['Paris Agreement', 'Executive action', '(De)regulation and laws']",1,0,1,0,1,0,0,0,0
+1168,17,"['Paris Agreement', 'Executive action', '(De)regulation and laws']",1,0,1,0,1,0,0,0,0
+1169,18,"['Paris Agreement', 'Executive action', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",1,0,1,0,0,1,1,1,0
+1169,17,"['Paris Agreement', 'Executive action', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",1,0,1,0,0,1,1,1,0
+1170,18,"['Paris Agreement', 'Green New Deal', 'Executive action', 'Renewable energy', 'Emission reduction']",1,1,1,0,0,1,1,0,0
+1170,17,"['Paris Agreement', 'Green New Deal', 'Executive action', 'Renewable energy', 'Emission reduction']",1,1,1,0,0,1,1,0,0
+1177,18,"['Paris Agreement', 'Executive action', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",1,0,1,0,0,1,1,1,0
+1177,17,"['Paris Agreement', 'Executive action', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",1,0,1,0,0,1,1,1,0
+1178,18,"['Green New Deal', 'Executive action', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",0,1,1,0,0,1,1,1,0
+1178,17,"['Green New Deal', 'Executive action', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",0,1,1,0,0,1,1,1,0
+1179,18,"['Executive action', 'Emission reduction', 'Other climate policy']",0,0,1,0,0,0,1,0,1
+1179,17,"['Executive action', 'Renewable energy', 'Emission reduction', 'Other climate policy']",0,0,1,0,0,1,1,0,1
+1181,18,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1181,17,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1186,18,"['Paris Agreement', 'Executive action', 'Renewable energy', 'Emission reduction', 'Oil and gas industry', 'Other climate policy']",1,0,1,0,0,1,1,1,1
+1186,17,"['Paris Agreement', 'Executive action', 'Renewable energy', 'Emission reduction', 'Other climate policy']",1,0,1,0,0,1,1,0,1
+1187,18,"['Paris Agreement', 'Executive action', 'Renewable energy']",1,0,1,0,0,1,0,0,0
+1187,17,"['Paris Agreement', 'Executive action', 'Renewable energy']",1,0,1,0,0,1,0,0,0
+1189,18,"['Executive action', 'Oil and gas industry']",0,0,1,0,0,0,0,1,0
+1189,17,"['Executive action', 'Oil and gas industry']",0,0,1,0,0,0,0,1,0
+1192,18,"['Paris Agreement', 'Green New Deal', 'Executive action', '(De)regulation and laws', 'Emission reduction', 'Oil and gas industry']",1,1,1,0,1,0,1,1,0
+1192,17,"['Paris Agreement', 'Green New Deal', 'Executive action', '(De)regulation and laws', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",1,1,1,0,1,1,1,1,0
+1195,19,"['Paris Agreement', 'Executive action', 'Emission reduction', 'Oil and gas industry']",1,0,1,0,0,0,1,1,0
+1195,17,"['Paris Agreement', 'Executive action', 'Emission reduction', 'Oil and gas industry']",1,0,1,0,0,0,1,1,0
+1196,19,"['Paris Agreement', 'Executive action', 'Emission reduction']",1,0,1,0,0,0,1,0,0
+1196,17,"['Paris Agreement', 'Executive action', 'Emission reduction']",1,0,1,0,0,0,1,0,0
+1199,19,"['Executive action', 'Renewable energy', 'Emission reduction']",0,0,1,0,0,1,1,0,0
+1199,17,"['Executive action', 'Renewable energy', 'Emission reduction']",0,0,1,0,0,1,1,0,0
+1200,19,"['Paris Agreement', 'Executive action', 'Emission reduction']",1,0,1,0,0,0,1,0,0
+1200,17,"['Paris Agreement', 'Executive action', 'Emission reduction']",1,0,1,0,0,0,1,0,0
+1211,19,"['Paris Agreement', 'Emergency declaration']",1,0,0,1,0,0,0,0,0
+1211,17,"['Paris Agreement', 'Emergency declaration', 'Oil and gas industry']",1,0,0,1,0,0,0,1,0
+1214,19,"['Paris Agreement', 'Executive action', 'Emission reduction', 'Oil and gas industry']",1,0,1,0,0,0,1,1,0
+1214,17,"['Paris Agreement', 'Executive action', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",1,0,1,0,0,1,1,1,0
+1216,19,"['Paris Agreement', 'Executive action', 'Emission reduction']",1,0,1,0,0,0,1,0,0
+1216,17,"['Paris Agreement', 'Executive action', 'Emission reduction']",1,0,1,0,0,0,1,0,0
+1219,19,"['Executive action', 'Emission reduction', 'Other climate policy']",0,0,1,0,0,0,1,0,1
+1219,17,"['Executive action', 'Emission reduction', 'Other climate policy']",0,0,1,0,0,0,1,0,1
+1229,19,['Emission reduction'],0,0,0,0,0,0,1,0,0
+1229,17,['Emission reduction'],0,0,0,0,0,0,1,0,0
+1240,19,"['Paris Agreement', 'Green New Deal', 'Renewable energy', 'Emission reduction']",1,1,0,0,0,1,1,0,0
+1240,17,"['Paris Agreement', 'Green New Deal', 'Renewable energy', 'Emission reduction']",1,1,0,0,0,1,1,0,0
+1241,19,"['Paris Agreement', 'Emission reduction']",1,0,0,0,0,0,1,0,0
+1241,17,"['Paris Agreement', 'Emission reduction']",1,0,0,0,0,0,1,0,0
+1244,19,[],0,0,0,0,0,0,0,0,0
+1244,17,[],0,0,0,0,0,0,0,0,0
+1246,19,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1246,17,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1249,19,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1249,17,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1259,16,['Green New Deal'],0,1,0,0,0,0,0,0,0
+1259,17,['Green New Deal'],0,1,0,0,0,0,0,0,0
+1260,16,['Paris Agreement'],1,0,0,0,0,0,0,0,0
+1260,17,['Paris Agreement'],1,0,0,0,0,0,0,0,0
+1262,16,"['Executive action', 'Renewable energy', 'Other climate policy']",0,0,1,0,0,1,0,0,1
+1262,17,"['Executive action', 'Renewable energy', 'Other climate policy']",0,0,1,0,0,1,0,0,1
+1263,16,"['Executive action', 'Other climate policy']",0,0,1,0,0,0,0,0,1
+1263,17,"['Executive action', 'Other climate policy']",0,0,1,0,0,0,0,0,1
+1267,16,['Paris Agreement'],1,0,0,0,0,0,0,0,0
+1267,17,['Paris Agreement'],1,0,0,0,0,0,0,0,0
+1268,18,"['Executive action', 'Renewable energy', 'Oil and gas industry', 'Other climate policy']",0,0,1,0,0,1,0,1,1
+1268,17,"['Executive action', 'Renewable energy', 'Oil and gas industry', 'Other climate policy']",0,0,1,0,0,1,0,1,1
+1269,18,"['Paris Agreement', 'Executive action', 'Renewable energy', 'Emission reduction', 'Oil and gas industry', 'Other climate policy']",1,0,1,0,0,1,1,1,1
+1269,17,"['Paris Agreement', 'Executive action', 'Renewable energy', 'Emission reduction', 'Oil and gas industry', 'Other climate policy']",1,0,1,0,0,1,1,1,1
+1270,18,"['Paris Agreement', 'Executive action', 'Renewable energy', 'Emission reduction', 'Oil and gas industry', 'Other climate policy']",1,0,1,0,0,1,1,1,1
+1270,17,"['Paris Agreement', 'Executive action', 'Renewable energy', 'Emission reduction', 'Oil and gas industry', 'Other climate policy']",1,0,1,0,0,1,1,1,1
+1271,18,"['Executive action', '(De)regulation and laws', 'Renewable energy', 'Emission reduction', 'Oil and gas industry', 'Other climate policy']",0,0,1,0,1,1,1,1,1
+1271,17,"['Executive action', '(De)regulation and laws', 'Renewable energy', 'Emission reduction', 'Oil and gas industry', 'Other climate policy']",0,0,1,0,1,1,1,1,1
+1272,18,"['Executive action', 'Renewable energy', 'Oil and gas industry']",0,0,1,0,0,1,0,1,0
+1272,17,"['Executive action', 'Renewable energy', 'Oil and gas industry']",0,0,1,0,0,1,0,1,0
+1273,18,"['Green New Deal', 'Executive action', 'Oil and gas industry']",0,1,1,0,0,0,0,1,0
+1273,17,"['Green New Deal', 'Executive action', 'Oil and gas industry']",0,1,1,0,0,0,0,1,0
+1274,18,"['Paris Agreement', 'Executive action', 'Renewable energy', 'Emission reduction']",1,0,1,0,0,1,1,0,0
+1274,17,"['Paris Agreement', 'Executive action', 'Renewable energy']",1,0,1,0,0,1,0,0,0
+1275,18,"['Paris Agreement', 'Executive action', 'Renewable energy', 'Emission reduction', 'Oil and gas industry', 'Other climate policy']",1,0,1,0,0,1,1,1,1
+1275,17,"['Paris Agreement', 'Executive action', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",1,0,1,0,0,1,1,1,0
+1276,18,"['Executive action', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",0,0,1,0,0,1,1,1,0
+1276,17,"['Executive action', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",0,0,1,0,0,1,1,1,0
+1277,18,"['Executive action', 'Oil and gas industry']",0,0,1,0,0,0,0,1,0
+1277,17,"['Executive action', 'Oil and gas industry']",0,0,1,0,0,0,0,1,0
+1278,18,"['Paris Agreement', 'Executive action', '(De)regulation and laws', 'Emission reduction', 'Oil and gas industry', 'Other climate policy']",1,0,1,0,1,0,1,1,1
+1278,17,"['Paris Agreement', 'Executive action', '(De)regulation and laws', 'Emission reduction', 'Oil and gas industry']",1,0,1,0,1,0,1,1,0
+1279,18,"['Paris Agreement', 'Executive action', 'Emission reduction', 'Oil and gas industry']",1,0,1,0,0,0,1,1,0
+1279,17,"['Paris Agreement', 'Executive action', 'Emission reduction', 'Oil and gas industry']",1,0,1,0,0,0,1,1,0
+1280,18,"['Executive action', 'Renewable energy', 'Emission reduction']",0,0,1,0,0,1,1,0,0
+1280,17,"['Executive action', 'Renewable energy', 'Emission reduction']",0,0,1,0,0,1,1,0,0
+1281,18,"['Paris Agreement', 'Executive action', 'Emission reduction', 'Oil and gas industry']",1,0,1,0,0,0,1,1,0
+1281,17,"['Paris Agreement', 'Executive action', '(De)regulation and laws', 'Oil and gas industry']",1,0,1,0,1,0,0,1,0
+1282,18,"['Paris Agreement', 'Executive action', '(De)regulation and laws', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",1,0,1,0,1,1,1,1,0
+1282,17,"['Paris Agreement', 'Executive action', '(De)regulation and laws', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",1,0,1,0,1,1,1,1,0
+1284,18,"['Paris Agreement', 'Executive action', '(De)regulation and laws', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",1,0,1,0,1,1,1,1,0
+1284,17,"['Paris Agreement', 'Executive action', '(De)regulation and laws', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",1,0,1,0,1,1,1,1,0
+1286,18,"['Paris Agreement', 'Executive action', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",1,0,1,0,0,1,1,1,0
+1286,17,"['Paris Agreement', 'Executive action', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",1,0,1,0,0,1,1,1,0
+1287,18,"['Paris Agreement', 'Executive action', '(De)regulation and laws', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",1,0,1,0,1,1,1,1,0
+1287,17,"['Paris Agreement', 'Executive action', '(De)regulation and laws', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",1,0,1,0,1,1,1,1,0
+1288,18,"['Paris Agreement', 'Executive action', 'Renewable energy', 'Emission reduction', 'Other climate policy']",1,0,1,0,0,1,1,0,1
+1288,17,"['Paris Agreement', 'Executive action', 'Renewable energy', 'Emission reduction']",1,0,1,0,0,1,1,0,0
+1289,18,"['Executive action', 'Renewable energy', 'Emission reduction', 'Oil and gas industry', 'Other climate policy']",0,0,1,0,0,1,1,1,1
+1289,17,"['Executive action', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",0,0,1,0,0,1,1,1,0
+1290,18,"['Paris Agreement', 'Green New Deal', 'Executive action', '(De)regulation and laws', 'Renewable energy', 'Emission reduction', 'Oil and gas industry', 'Other climate policy']",1,1,1,0,1,1,1,1,1
+1290,17,"['Paris Agreement', 'Green New Deal', 'Executive action', '(De)regulation and laws', 'Renewable energy', 'Emission reduction', 'Oil and gas industry', 'Other climate policy']",1,1,1,0,1,1,1,1,1
+1292,18,"['Paris Agreement', 'Executive action', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",1,0,1,0,0,1,1,1,0
+1292,17,"['Paris Agreement', 'Executive action', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",1,0,1,0,0,1,1,1,0
+1293,18,"['Paris Agreement', 'Executive action', 'Emergency declaration', '(De)regulation and laws', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",1,0,1,1,1,1,1,1,0
+1293,17,"['Paris Agreement', 'Executive action', 'Emergency declaration', '(De)regulation and laws', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",1,0,1,1,1,1,1,1,0
+1294,18,"['Green New Deal', 'Executive action', 'Oil and gas industry', 'Other climate policy']",0,1,1,0,0,0,0,1,1
+1294,17,"['Green New Deal', 'Executive action', 'Oil and gas industry', 'Other climate policy']",0,1,1,0,0,0,0,1,1
+1296,18,"['Paris Agreement', 'Executive action', 'Emission reduction', 'Oil and gas industry']",1,0,1,0,0,0,1,1,0
+1296,17,"['Paris Agreement', 'Executive action', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",1,0,1,0,0,1,1,1,0
+1299,18,"['Paris Agreement', 'Executive action', 'Renewable energy', 'Oil and gas industry', 'Other climate policy']",1,0,1,0,0,1,0,1,1
+1299,17,"['Paris Agreement', 'Executive action', 'Renewable energy', 'Oil and gas industry', 'Other climate policy']",1,0,1,0,0,1,0,1,1
+1301,18,"['Paris Agreement', 'Executive action', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",1,0,1,0,0,1,1,1,0
+1301,17,"['Paris Agreement', 'Executive action', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",1,0,1,0,0,1,1,1,0
+1303,18,"['Green New Deal', 'Executive action', 'Renewable energy', 'Emission reduction', 'Other climate policy']",0,1,1,0,0,1,1,0,1
+1303,17,"['Paris Agreement', 'Green New Deal', 'Executive action', 'Renewable energy', 'Other climate policy']",1,1,1,0,0,1,0,0,1
+1304,18,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1304,17,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1305,18,"['Executive action', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",0,0,1,0,0,1,1,1,0
+1305,17,"['Paris Agreement', 'Executive action', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",1,0,1,0,0,1,1,1,0
+1306,18,"['Paris Agreement', 'Executive action', 'Renewable energy', 'Emission reduction', 'Oil and gas industry', 'Other climate policy']",1,0,1,0,0,1,1,1,1
+1306,17,"['Paris Agreement', 'Executive action', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",1,0,1,0,0,1,1,1,0
+1307,18,"['Executive action', 'Oil and gas industry']",0,0,1,0,0,0,0,1,0
+1307,17,"['Paris Agreement', 'Executive action', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",1,0,1,0,0,1,1,1,0
+1308,18,['Executive action'],0,0,1,0,0,0,0,0,0
+1308,17,['Executive action'],0,0,1,0,0,0,0,0,0
+1309,18,"['Executive action', 'Renewable energy', 'Emission reduction']",0,0,1,0,0,1,1,0,0
+1309,17,"['Executive action', 'Renewable energy', 'Emission reduction']",0,0,1,0,0,1,1,0,0
+1310,18,['Executive action'],0,0,1,0,0,0,0,0,0
+1310,17,['Executive action'],0,0,1,0,0,0,0,0,0
+1311,18,"['Green New Deal', 'Executive action', 'Renewable energy', 'Oil and gas industry', 'Other climate policy']",0,1,1,0,0,1,0,1,1
+1311,17,"['Green New Deal', 'Executive action', 'Renewable energy', 'Oil and gas industry']",0,1,1,0,0,1,0,1,0
+1316,18,"['Green New Deal', 'Executive action', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",0,1,1,0,0,1,1,1,0
+1316,17,"['Green New Deal', 'Executive action', 'Renewable energy', 'Oil and gas industry']",0,1,1,0,0,1,0,1,0
+1317,18,"['Paris Agreement', 'Executive action', 'Renewable energy']",1,0,1,0,0,1,0,0,0
+1317,17,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1318,18,"['Executive action', 'Oil and gas industry']",0,0,1,0,0,0,0,1,0
+1318,17,"['Executive action', 'Oil and gas industry']",0,0,1,0,0,0,0,1,0
+1319,18,"['Executive action', 'Renewable energy', 'Oil and gas industry', 'Other climate policy']",0,0,1,0,0,1,0,1,1
+1319,17,"['Executive action', 'Oil and gas industry', 'Other climate policy']",0,0,1,0,0,0,0,1,1
+1320,18,"['Paris Agreement', 'Executive action', 'Emission reduction', 'Oil and gas industry']",1,0,1,0,0,0,1,1,0
+1320,17,"['Paris Agreement', 'Executive action', 'Oil and gas industry']",1,0,1,0,0,0,0,1,0
+1323,18,['Renewable energy'],0,0,0,0,0,1,0,0,0
+1323,17,"['Renewable energy', 'Other climate policy']",0,0,0,0,0,1,0,0,1
+1326,18,"['Executive action', 'Renewable energy', 'Oil and gas industry', 'Other climate policy']",0,0,1,0,0,1,0,1,1
+1326,17,"['Executive action', 'Renewable energy', 'Oil and gas industry', 'Other climate policy']",0,0,1,0,0,1,0,1,1
+1327,18,"['Green New Deal', 'Executive action', 'Emergency declaration']",0,1,1,1,0,0,0,0,0
+1327,17,"['Green New Deal', 'Executive action', 'Emergency declaration']",0,1,1,1,0,0,0,0,0
+1328,18,"['Paris Agreement', 'Executive action', 'Renewable energy', 'Oil and gas industry']",1,0,1,0,0,1,0,1,0
+1328,17,"['Paris Agreement', 'Executive action', 'Renewable energy']",1,0,1,0,0,1,0,0,0
+1330,18,"['Executive action', 'Emergency declaration', 'Renewable energy', 'Oil and gas industry']",0,0,1,1,0,1,0,1,0
+1330,17,"['Paris Agreement', 'Executive action', 'Emergency declaration', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",1,0,1,1,0,1,1,1,0
+1332,18,['Executive action'],0,0,1,0,0,0,0,0,0
+1332,17,['Executive action'],0,0,1,0,0,0,0,0,0
+1333,18,"['Paris Agreement', 'Executive action', 'Emergency declaration', 'Renewable energy', 'Oil and gas industry']",1,0,1,1,0,1,0,1,0
+1333,17,"['Paris Agreement', 'Executive action', 'Emergency declaration', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",1,0,1,1,0,1,1,1,0
+1334,16,"['Executive action', 'Renewable energy', 'Oil and gas industry']",0,0,1,0,0,1,0,1,0
+1334,17,"['Executive action', 'Renewable energy', 'Oil and gas industry']",0,0,1,0,0,1,0,1,0
+1335,16,"['Executive action', 'Renewable energy', 'Oil and gas industry']",0,0,1,0,0,1,0,1,0
+1335,17,"['Executive action', 'Renewable energy', 'Oil and gas industry']",0,0,1,0,0,1,0,1,0
+1336,16,"['Executive action', 'Renewable energy', 'Oil and gas industry']",0,0,1,0,0,1,0,1,0
+1336,17,"['Executive action', 'Renewable energy', 'Oil and gas industry']",0,0,1,0,0,1,0,1,0
+1337,16,"['Executive action', 'Renewable energy', 'Oil and gas industry']",0,0,1,0,0,1,0,1,0
+1337,17,"['Executive action', 'Renewable energy', 'Oil and gas industry']",0,0,1,0,0,1,0,1,0
+1341,16,"['Executive action', 'Emission reduction']",0,0,1,0,0,0,1,0,0
+1341,17,"['Paris Agreement', 'Executive action', 'Emission reduction']",1,0,1,0,0,0,1,0,0
+1342,16,"['Executive action', 'Renewable energy', 'Oil and gas industry']",0,0,1,0,0,1,0,1,0
+1342,17,"['Executive action', 'Renewable energy', 'Oil and gas industry']",0,0,1,0,0,1,0,1,0
+1345,16,"['Paris Agreement', 'Executive action', 'Emergency declaration', 'Other climate policy']",1,0,1,1,0,0,0,0,1
+1345,17,"['Executive action', 'Emergency declaration', 'Other climate policy']",0,0,1,1,0,0,0,0,1
+1348,16,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1348,17,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1350,16,"['Executive action', 'Oil and gas industry']",0,0,1,0,0,0,0,1,0
+1350,17,"['Executive action', 'Oil and gas industry']",0,0,1,0,0,0,0,1,0
+1351,18,"['Executive action', 'Oil and gas industry']",0,0,1,0,0,0,0,1,0
+1351,17,"['Executive action', 'Oil and gas industry']",0,0,1,0,0,0,0,1,0
+1352,18,"['Paris Agreement', 'Executive action', 'Renewable energy', 'Oil and gas industry']",1,0,1,0,0,1,0,1,0
+1352,17,"['Paris Agreement', 'Executive action', 'Renewable energy', 'Oil and gas industry']",1,0,1,0,0,1,0,1,0
+1353,18,"['Paris Agreement', 'Executive action', 'Renewable energy', 'Oil and gas industry', 'Other climate policy']",1,0,1,0,0,1,0,1,1
+1353,17,"['Paris Agreement', 'Executive action', 'Renewable energy', 'Oil and gas industry', 'Other climate policy']",1,0,1,0,0,1,0,1,1
+1354,18,"['Paris Agreement', 'Green New Deal', 'Executive action', 'Oil and gas industry']",1,1,1,0,0,0,0,1,0
+1354,17,"['Paris Agreement', 'Green New Deal', 'Executive action', 'Oil and gas industry']",1,1,1,0,0,0,0,1,0
+1358,18,"['Paris Agreement', 'Executive action', 'Oil and gas industry']",1,0,1,0,0,0,0,1,0
+1358,17,"['Paris Agreement', 'Executive action', 'Oil and gas industry']",1,0,1,0,0,0,0,1,0
+1359,18,"['Paris Agreement', 'Executive action', 'Renewable energy', 'Oil and gas industry']",1,0,1,0,0,1,0,1,0
+1359,17,"['Paris Agreement', 'Executive action', 'Renewable energy', 'Oil and gas industry']",1,0,1,0,0,1,0,1,0
+1361,18,['Oil and gas industry'],0,0,0,0,0,0,0,1,0
+1361,17,['Oil and gas industry'],0,0,0,0,0,0,0,1,0
+1362,18,"['Paris Agreement', 'Executive action', 'Oil and gas industry']",1,0,1,0,0,0,0,1,0
+1362,17,"['Paris Agreement', 'Executive action', 'Renewable energy', 'Oil and gas industry']",1,0,1,0,0,1,0,1,0
+1364,18,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1364,17,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1365,18,"['Paris Agreement', 'Executive action', 'Emission reduction', 'Oil and gas industry', 'Other climate policy']",1,0,1,0,0,0,1,1,1
+1365,17,"['Paris Agreement', 'Executive action', 'Other climate policy']",1,0,1,0,0,0,0,0,1
+1366,18,"['Paris Agreement', 'Executive action', 'Oil and gas industry']",1,0,1,0,0,0,0,1,0
+1366,17,"['Paris Agreement', 'Executive action', 'Oil and gas industry']",1,0,1,0,0,0,0,1,0
+1367,18,"['Executive action', 'Oil and gas industry']",0,0,1,0,0,0,0,1,0
+1367,17,"['Executive action', 'Oil and gas industry']",0,0,1,0,0,0,0,1,0
+1368,18,"['Paris Agreement', 'Executive action', 'Oil and gas industry']",1,0,1,0,0,0,0,1,0
+1368,17,"['Paris Agreement', 'Executive action', 'Oil and gas industry']",1,0,1,0,0,0,0,1,0
+1369,18,"['Paris Agreement', 'Executive action', 'Oil and gas industry']",1,0,1,0,0,0,0,1,0
+1369,17,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1371,18,"['Paris Agreement', 'Executive action', 'Oil and gas industry']",1,0,1,0,0,0,0,1,0
+1371,17,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1372,18,"['Paris Agreement', 'Green New Deal', 'Executive action', 'Oil and gas industry']",1,1,1,0,0,0,0,1,0
+1372,17,"['Paris Agreement', 'Green New Deal', 'Executive action', 'Oil and gas industry']",1,1,1,0,0,0,0,1,0
+1373,18,"['Executive action', 'Oil and gas industry']",0,0,1,0,0,0,0,1,0
+1373,17,"['Executive action', 'Oil and gas industry']",0,0,1,0,0,0,0,1,0
+1374,18,"['Paris Agreement', 'Executive action', 'Renewable energy', 'Oil and gas industry', 'Other climate policy']",1,0,1,0,0,1,0,1,1
+1374,17,"['Paris Agreement', 'Executive action', 'Renewable energy', 'Oil and gas industry', 'Other climate policy']",1,0,1,0,0,1,0,1,1
+1375,18,[],0,0,0,0,0,0,0,0,0
+1375,17,[],0,0,0,0,0,0,0,0,0
+1376,18,"['Paris Agreement', 'Executive action', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",1,0,1,0,0,1,1,1,0
+1376,17,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1381,18,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1381,17,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1386,16,"['Paris Agreement', 'Executive action', 'Oil and gas industry']",1,0,1,0,0,0,0,1,0
+1386,17,"['Paris Agreement', 'Executive action', 'Oil and gas industry']",1,0,1,0,0,0,0,1,0
+1387,16,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1387,17,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1388,16,"['Paris Agreement', 'Executive action', 'Oil and gas industry']",1,0,1,0,0,0,0,1,0
+1388,17,"['Paris Agreement', 'Executive action', 'Oil and gas industry']",1,0,1,0,0,0,0,1,0
+1389,16,"['Paris Agreement', 'Executive action', 'Oil and gas industry']",1,0,1,0,0,0,0,1,0
+1389,17,"['Paris Agreement', 'Executive action', 'Oil and gas industry']",1,0,1,0,0,0,0,1,0
+1390,18,"['Paris Agreement', 'Executive action', 'Oil and gas industry']",1,0,1,0,0,0,0,1,0
+1390,17,"['Paris Agreement', 'Executive action', 'Oil and gas industry']",1,0,1,0,0,0,0,1,0
+1391,18,"['Paris Agreement', 'Executive action', 'Emission reduction']",1,0,1,0,0,0,1,0,0
+1391,17,"['Paris Agreement', 'Executive action', 'Emission reduction']",1,0,1,0,0,0,1,0,0
+1395,18,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1395,17,"['Paris Agreement', 'Executive action', 'Oil and gas industry']",1,0,1,0,0,0,0,1,0
+1396,18,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1396,17,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1401,18,"['Paris Agreement', 'Executive action', 'Oil and gas industry']",1,0,1,0,0,0,0,1,0
+1401,17,"['Paris Agreement', 'Executive action', 'Oil and gas industry']",1,0,1,0,0,0,0,1,0
+1403,18,"['Paris Agreement', 'Executive action', 'Oil and gas industry']",1,0,1,0,0,0,0,1,0
+1403,17,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1404,18,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1404,17,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1405,18,"['Paris Agreement', 'Executive action', 'Oil and gas industry']",1,0,1,0,0,0,0,1,0
+1405,17,"['Paris Agreement', 'Executive action', 'Oil and gas industry']",1,0,1,0,0,0,0,1,0
+1406,18,"['Paris Agreement', 'Executive action', 'Oil and gas industry']",1,0,1,0,0,0,0,1,0
+1406,17,"['Paris Agreement', 'Executive action', 'Oil and gas industry']",1,0,1,0,0,0,0,1,0
+1409,18,"['Paris Agreement', 'Executive action', 'Oil and gas industry']",1,0,1,0,0,0,0,1,0
+1409,17,"['Paris Agreement', 'Executive action', 'Oil and gas industry']",1,0,1,0,0,0,0,1,0
+1410,18,"['Executive action', 'Oil and gas industry']",0,0,1,0,0,0,0,1,0
+1410,17,"['Executive action', 'Oil and gas industry']",0,0,1,0,0,0,0,1,0
+1411,18,['Renewable energy'],0,0,0,0,0,1,0,0,0
+1411,17,"['Executive action', 'Renewable energy']",0,0,1,0,0,1,0,0,0
+1414,18,"['Paris Agreement', 'Executive action', '(De)regulation and laws', 'Renewable energy', 'Oil and gas industry']",1,0,1,0,1,1,0,1,0
+1414,17,"['Paris Agreement', 'Executive action', '(De)regulation and laws', 'Renewable energy', 'Oil and gas industry']",1,0,1,0,1,1,0,1,0
+1415,18,"['Paris Agreement', 'Executive action', 'Emission reduction', 'Oil and gas industry']",1,0,1,0,0,0,1,1,0
+1415,17,"['Paris Agreement', 'Executive action', 'Emission reduction', 'Oil and gas industry']",1,0,1,0,0,0,1,1,0
+1416,18,"['Paris Agreement', 'Executive action', 'Oil and gas industry']",1,0,1,0,0,0,0,1,0
+1416,17,"['Paris Agreement', 'Executive action', 'Oil and gas industry']",1,0,1,0,0,0,0,1,0
+1417,18,"['Paris Agreement', 'Executive action', '(De)regulation and laws', 'Oil and gas industry']",1,0,1,0,1,0,0,1,0
+1417,17,"['Paris Agreement', 'Executive action', '(De)regulation and laws', 'Oil and gas industry']",1,0,1,0,1,0,0,1,0
+1418,18,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1418,17,"['Paris Agreement', 'Executive action', 'Oil and gas industry']",1,0,1,0,0,0,0,1,0
+1419,18,"['Paris Agreement', 'Executive action', 'Emission reduction', 'Oil and gas industry']",1,0,1,0,0,0,1,1,0
+1419,17,"['Paris Agreement', 'Executive action', 'Oil and gas industry']",1,0,1,0,0,0,0,1,0
+1420,18,"['Paris Agreement', 'Executive action', '(De)regulation and laws', 'Oil and gas industry']",1,0,1,0,1,0,0,1,0
+1420,17,"['Paris Agreement', 'Executive action', '(De)regulation and laws', 'Oil and gas industry']",1,0,1,0,1,0,0,1,0
+1422,18,"['Paris Agreement', 'Executive action', 'Oil and gas industry']",1,0,1,0,0,0,0,1,0
+1422,17,"['Paris Agreement', 'Executive action', 'Oil and gas industry']",1,0,1,0,0,0,0,1,0
+1423,18,"['Green New Deal', 'Executive action', 'Oil and gas industry']",0,1,1,0,0,0,0,1,0
+1423,17,"['Green New Deal', 'Executive action']",0,1,1,0,0,0,0,0,0
+1424,18,"['Paris Agreement', 'Executive action', 'Oil and gas industry']",1,0,1,0,0,0,0,1,0
+1424,17,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1426,18,"['Paris Agreement', 'Executive action', 'Oil and gas industry']",1,0,1,0,0,0,0,1,0
+1426,17,"['Paris Agreement', 'Executive action', 'Oil and gas industry']",1,0,1,0,0,0,0,1,0
+1427,18,"['Paris Agreement', 'Executive action', '(De)regulation and laws', 'Oil and gas industry']",1,0,1,0,1,0,0,1,0
+1427,17,"['Paris Agreement', 'Executive action', '(De)regulation and laws', 'Oil and gas industry']",1,0,1,0,1,0,0,1,0
+1430,18,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1430,17,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1431,18,"['Paris Agreement', 'Executive action', 'Oil and gas industry']",1,0,1,0,0,0,0,1,0
+1431,17,"['Paris Agreement', 'Executive action', 'Oil and gas industry']",1,0,1,0,0,0,0,1,0
+1432,18,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1432,17,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1433,18,"['Paris Agreement', 'Executive action', 'Renewable energy', 'Oil and gas industry', 'Other climate policy']",1,0,1,0,0,1,0,1,1
+1433,17,"['Paris Agreement', 'Executive action', 'Renewable energy', 'Oil and gas industry', 'Other climate policy']",1,0,1,0,0,1,0,1,1
+1434,18,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1434,17,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1435,18,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1435,17,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1440,18,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1440,17,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1442,18,"['Paris Agreement', 'Executive action', 'Oil and gas industry']",1,0,1,0,0,0,0,1,0
+1442,17,"['Paris Agreement', 'Executive action', 'Oil and gas industry']",1,0,1,0,0,0,0,1,0
+1443,18,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1443,17,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1444,18,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1444,17,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1446,18,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1446,17,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1460,18,['Executive action'],0,0,1,0,0,0,0,0,0
+1460,17,"['Executive action', 'Other climate policy']",0,0,1,0,0,0,0,0,1
+1461,18,"['Executive action', 'Renewable energy']",0,0,1,0,0,1,0,0,0
+1461,17,"['Executive action', 'Renewable energy']",0,0,1,0,0,1,0,0,0
+1462,18,"['Paris Agreement', 'Green New Deal', 'Executive action', 'Renewable energy', 'Oil and gas industry']",1,1,1,0,0,1,0,1,0
+1462,17,"['Paris Agreement', 'Green New Deal', 'Executive action', 'Renewable energy', 'Oil and gas industry']",1,1,1,0,0,1,0,1,0
+1463,18,"['Executive action', 'Renewable energy', 'Oil and gas industry']",0,0,1,0,0,1,0,1,0
+1463,17,"['Executive action', 'Oil and gas industry']",0,0,1,0,0,0,0,1,0
+1464,18,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1464,17,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1466,18,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1466,17,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1467,18,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1467,17,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1468,18,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1468,17,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1469,18,"['Paris Agreement', 'Executive action', 'Oil and gas industry']",1,0,1,0,0,0,0,1,0
+1469,17,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1470,18,"['Paris Agreement', 'Executive action', '(De)regulation and laws']",1,0,1,0,1,0,0,0,0
+1470,17,"['Paris Agreement', 'Executive action', '(De)regulation and laws']",1,0,1,0,1,0,0,0,0
+1474,18,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1474,17,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1475,18,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1475,17,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1476,18,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1476,17,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1477,18,"['Executive action', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",0,0,1,0,0,1,1,1,0
+1477,17,"['Executive action', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",0,0,1,0,0,1,1,1,0
+1483,18,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1483,17,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1484,18,"['Emission reduction', 'Other climate policy']",0,0,0,0,0,0,1,0,1
+1484,17,['Emission reduction'],0,0,0,0,0,0,1,0,0
+1487,18,['Green New Deal'],0,1,0,0,0,0,0,0,0
+1487,17,['Green New Deal'],0,1,0,0,0,0,0,0,0
+1490,18,['Executive action'],0,0,1,0,0,0,0,0,0
+1490,17,['Executive action'],0,0,1,0,0,0,0,0,0
+1494,18,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1494,17,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1502,18,"['Paris Agreement', 'Executive action', 'Emission reduction', 'Oil and gas industry']",1,0,1,0,0,0,1,1,0
+1502,17,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1517,18,"['Executive action', 'Renewable energy']",0,0,1,0,0,1,0,0,0
+1517,17,"['Executive action', 'Renewable energy']",0,0,1,0,0,1,0,0,0
+1520,18,"['Paris Agreement', 'Executive action', 'Emission reduction']",1,0,1,0,0,0,1,0,0
+1520,17,"['Paris Agreement', 'Executive action', 'Emission reduction']",1,0,1,0,0,0,1,0,0
+1521,18,"['Paris Agreement', 'Executive action', 'Emission reduction']",1,0,1,0,0,0,1,0,0
+1521,17,"['Paris Agreement', 'Executive action', 'Emission reduction']",1,0,1,0,0,0,1,0,0
+1522,18,['Renewable energy'],0,0,0,0,0,1,0,0,0
+1522,17,['Renewable energy'],0,0,0,0,0,1,0,0,0
+1523,18,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1523,17,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1524,18,"['Paris Agreement', 'Executive action', 'Emission reduction']",1,0,1,0,0,0,1,0,0
+1524,17,"['Paris Agreement', 'Executive action', 'Renewable energy', 'Emission reduction']",1,0,1,0,0,1,1,0,0
+1525,18,"['Green New Deal', 'Executive action', 'Renewable energy', 'Oil and gas industry']",0,1,1,0,0,1,0,1,0
+1525,17,"['Green New Deal', 'Executive action', 'Renewable energy', 'Oil and gas industry']",0,1,1,0,0,1,0,1,0
+1530,18,"['Executive action', 'Renewable energy', 'Oil and gas industry']",0,0,1,0,0,1,0,1,0
+1530,17,"['Executive action', 'Renewable energy', 'Oil and gas industry']",0,0,1,0,0,1,0,1,0
+1535,18,"['Executive action', 'Emission reduction']",0,0,1,0,0,0,1,0,0
+1535,17,"['Executive action', 'Emission reduction']",0,0,1,0,0,0,1,0,0
+1537,18,"['Renewable energy', 'Emission reduction', 'Oil and gas industry']",0,0,0,0,0,1,1,1,0
+1537,17,"['Renewable energy', 'Oil and gas industry']",0,0,0,0,0,1,0,1,0
+1538,18,"['(De)regulation and laws', 'Renewable energy']",0,0,0,0,1,1,0,0,0
+1538,17,"['(De)regulation and laws', 'Renewable energy']",0,0,0,0,1,1,0,0,0
+1540,18,['(De)regulation and laws'],0,0,0,0,1,0,0,0,0
+1540,17,['(De)regulation and laws'],0,0,0,0,1,0,0,0,0
+1543,18,['Green New Deal'],0,1,0,0,0,0,0,0,0
+1543,17,['Green New Deal'],0,1,0,0,0,0,0,0,0
+1544,18,"['Executive action', 'Oil and gas industry']",0,0,1,0,0,0,0,1,0
+1544,17,"['Executive action', 'Oil and gas industry']",0,0,1,0,0,0,0,1,0
+1547,18,"['Executive action', 'Oil and gas industry']",0,0,1,0,0,0,0,1,0
+1547,17,"['Executive action', 'Oil and gas industry']",0,0,1,0,0,0,0,1,0
+1549,18,['(De)regulation and laws'],0,0,0,0,1,0,0,0,0
+1549,17,['(De)regulation and laws'],0,0,0,0,1,0,0,0,0
+1558,18,[],0,0,0,0,0,0,0,0,0
+1558,17,[],0,0,0,0,0,0,0,0,0
+1559,18,"['Paris Agreement', 'Green New Deal', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",1,1,0,0,0,1,1,1,0
+1559,17,"['Paris Agreement', 'Green New Deal', 'Executive action', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",1,1,1,0,0,1,1,1,0
+1560,18,"['Green New Deal', 'Emission reduction']",0,1,0,0,0,0,1,0,0
+1560,17,"['Green New Deal', 'Renewable energy']",0,1,0,0,0,1,0,0,0
+1561,18,"['Green New Deal', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",0,1,0,0,0,1,1,1,0
+1561,17,"['Green New Deal', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",0,1,0,0,0,1,1,1,0
+1563,18,"['Executive action', 'Renewable energy', 'Oil and gas industry']",0,0,1,0,0,1,0,1,0
+1563,17,"['Executive action', 'Renewable energy', 'Oil and gas industry']",0,0,1,0,0,1,0,1,0
+1564,18,"['(De)regulation and laws', 'Oil and gas industry']",0,0,0,0,1,0,0,1,0
+1564,17,"['(De)regulation and laws', 'Oil and gas industry']",0,0,0,0,1,0,0,1,0
+1568,18,"['Green New Deal', 'Executive action', '(De)regulation and laws', 'Renewable energy', 'Oil and gas industry', 'Other climate policy']",0,1,1,0,1,1,0,1,1
+1568,17,"['Green New Deal', 'Executive action', 'Renewable energy', 'Oil and gas industry', 'Other climate policy']",0,1,1,0,0,1,0,1,1
+1569,18,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1569,17,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1572,18,[],0,0,0,0,0,0,0,0,0
+1572,17,[],0,0,0,0,0,0,0,0,0
+1573,18,"['Executive action', '(De)regulation and laws', 'Renewable energy', 'Oil and gas industry']",0,0,1,0,1,1,0,1,0
+1573,17,"['Executive action', '(De)regulation and laws', 'Renewable energy', 'Oil and gas industry']",0,0,1,0,1,1,0,1,0
+1576,18,['Green New Deal'],0,1,0,0,0,0,0,0,0
+1576,17,"['Green New Deal', 'Oil and gas industry']",0,1,0,0,0,0,0,1,0
+1578,18,"['Paris Agreement', 'Executive action', '(De)regulation and laws', 'Renewable energy', 'Emission reduction']",1,0,1,0,1,1,1,0,0
+1578,17,"['Paris Agreement', 'Executive action', '(De)regulation and laws', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",1,0,1,0,1,1,1,1,0
+1584,16,"['Paris Agreement', 'Green New Deal', 'Executive action', 'Oil and gas industry']",1,1,1,0,0,0,0,1,0
+1584,17,"['Paris Agreement', 'Green New Deal', 'Executive action', 'Oil and gas industry']",1,1,1,0,0,0,0,1,0
+1586,16,"['Green New Deal', 'Oil and gas industry']",0,1,0,0,0,0,0,1,0
+1586,17,"['Green New Deal', 'Oil and gas industry']",0,1,0,0,0,0,0,1,0
+1587,16,"['Green New Deal', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",0,1,0,0,0,1,1,1,0
+1587,17,"['Green New Deal', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",0,1,0,0,0,1,1,1,0
+1591,16,"['Paris Agreement', 'Executive action', 'Renewable energy', 'Oil and gas industry']",1,0,1,0,0,1,0,1,0
+1591,17,"['Paris Agreement', 'Executive action', 'Renewable energy', 'Oil and gas industry']",1,0,1,0,0,1,0,1,0
+1593,16,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1593,17,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1595,16,"['Paris Agreement', 'Executive action', '(De)regulation and laws', 'Oil and gas industry']",1,0,1,0,1,0,0,1,0
+1595,17,"['Paris Agreement', 'Executive action', '(De)regulation and laws', 'Oil and gas industry']",1,0,1,0,1,0,0,1,0
+1598,16,['Green New Deal'],0,1,0,0,0,0,0,0,0
+1598,17,['Green New Deal'],0,1,0,0,0,0,0,0,0
+1599,16,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1599,17,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1601,16,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1601,17,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1606,16,"['Paris Agreement', 'Executive action', 'Renewable energy', 'Emission reduction']",1,0,1,0,0,1,1,0,0
+1606,17,"['Paris Agreement', 'Executive action', 'Renewable energy', 'Emission reduction']",1,0,1,0,0,1,1,0,0
+1610,16,"['Green New Deal', 'Executive action', '(De)regulation and laws', 'Renewable energy', 'Oil and gas industry']",0,1,1,0,1,1,0,1,0
+1610,17,"['Green New Deal', 'Executive action', '(De)regulation and laws', 'Renewable energy', 'Oil and gas industry']",0,1,1,0,1,1,0,1,0
+1611,16,"['Executive action', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",0,0,1,0,0,1,1,1,0
+1611,17,"['Executive action', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",0,0,1,0,0,1,1,1,0
+1614,16,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1614,17,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1615,16,"['Paris Agreement', 'Executive action', 'Oil and gas industry']",1,0,1,0,0,0,0,1,0
+1615,17,"['Paris Agreement', 'Executive action', 'Oil and gas industry']",1,0,1,0,0,0,0,1,0
+1616,16,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1616,17,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1617,16,"['Paris Agreement', 'Green New Deal', 'Executive action', 'Oil and gas industry']",1,1,1,0,0,0,0,1,0
+1617,17,"['Paris Agreement', 'Green New Deal', 'Executive action', 'Oil and gas industry']",1,1,1,0,0,0,0,1,0
+1618,16,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1618,17,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1619,16,"['Executive action', 'Emergency declaration', 'Renewable energy', 'Oil and gas industry']",0,0,1,1,0,1,0,1,0
+1619,17,"['Executive action', 'Emergency declaration', 'Renewable energy', 'Oil and gas industry']",0,0,1,1,0,1,0,1,0
+1620,16,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1620,17,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1621,16,"['Paris Agreement', 'Executive action', 'Renewable energy', 'Emission reduction']",1,0,1,0,0,1,1,0,0
+1621,17,"['Paris Agreement', 'Executive action', 'Renewable energy', 'Emission reduction']",1,0,1,0,0,1,1,0,0
+1623,18,"['Paris Agreement', 'Executive action', '(De)regulation and laws', 'Renewable energy']",1,0,1,0,1,1,0,0,0
+1623,17,"['Paris Agreement', 'Executive action', '(De)regulation and laws', 'Renewable energy']",1,0,1,0,1,1,0,0,0
+1625,18,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1625,17,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1626,18,"['Green New Deal', 'Executive action', 'Emergency declaration']",0,1,1,1,0,0,0,0,0
+1626,17,"['Green New Deal', 'Executive action', 'Emergency declaration']",0,1,1,1,0,0,0,0,0
+1627,18,"['Green New Deal', '(De)regulation and laws', 'Renewable energy', 'Oil and gas industry']",0,1,0,0,1,1,0,1,0
+1627,17,"['Green New Deal', '(De)regulation and laws', 'Renewable energy', 'Oil and gas industry']",0,1,0,0,1,1,0,1,0
+1637,18,"['Green New Deal', 'Renewable energy', 'Oil and gas industry']",0,1,0,0,0,1,0,1,0
+1637,17,"['Green New Deal', 'Renewable energy', 'Oil and gas industry']",0,1,0,0,0,1,0,1,0
+1638,18,"['Green New Deal', 'Executive action', 'Renewable energy', 'Oil and gas industry']",0,1,1,0,0,1,0,1,0
+1638,17,"['Green New Deal', 'Executive action', 'Renewable energy', 'Oil and gas industry']",0,1,1,0,0,1,0,1,0
+1639,18,"['Green New Deal', 'Renewable energy', 'Oil and gas industry']",0,1,0,0,0,1,0,1,0
+1639,17,"['Green New Deal', 'Renewable energy', 'Oil and gas industry']",0,1,0,0,0,1,0,1,0
+1640,18,"['Green New Deal', '(De)regulation and laws', 'Renewable energy', 'Oil and gas industry']",0,1,0,0,1,1,0,1,0
+1640,17,"['Green New Deal', '(De)regulation and laws', 'Renewable energy', 'Oil and gas industry']",0,1,0,0,1,1,0,1,0
+1642,18,"['Executive action', '(De)regulation and laws', 'Emission reduction', 'Oil and gas industry']",0,0,1,0,1,0,1,1,0
+1642,17,"['Executive action', '(De)regulation and laws', 'Emission reduction', 'Oil and gas industry']",0,0,1,0,1,0,1,1,0
+1644,18,"['Green New Deal', '(De)regulation and laws', 'Renewable energy', 'Oil and gas industry']",0,1,0,0,1,1,0,1,0
+1644,17,"['Green New Deal', '(De)regulation and laws', 'Renewable energy', 'Oil and gas industry']",0,1,0,0,1,1,0,1,0
+1646,18,"['Green New Deal', 'Renewable energy', 'Oil and gas industry']",0,1,0,0,0,1,0,1,0
+1646,17,"['Green New Deal', 'Renewable energy', 'Oil and gas industry']",0,1,0,0,0,1,0,1,0
+1648,18,"['(De)regulation and laws', 'Renewable energy', 'Oil and gas industry']",0,0,0,0,1,1,0,1,0
+1648,17,"['(De)regulation and laws', 'Renewable energy', 'Oil and gas industry']",0,0,0,0,1,1,0,1,0
+1649,18,['Emission reduction'],0,0,0,0,0,0,1,0,0
+1649,17,['Emission reduction'],0,0,0,0,0,0,1,0,0
+1651,18,"['Executive action', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",0,0,1,0,0,1,1,1,0
+1651,17,"['Executive action', 'Renewable energy', 'Oil and gas industry']",0,0,1,0,0,1,0,1,0
+1653,18,"['Executive action', '(De)regulation and laws', 'Emission reduction']",0,0,1,0,1,0,1,0,0
+1653,17,"['Executive action', '(De)regulation and laws', 'Renewable energy']",0,0,1,0,1,1,0,0,0
+1655,18,"['Green New Deal', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",0,1,0,0,0,1,1,1,0
+1655,17,"['Green New Deal', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",0,1,0,0,0,1,1,1,0
+1656,18,"['Green New Deal', 'Executive action', 'Renewable energy']",0,1,1,0,0,1,0,0,0
+1656,17,"['Green New Deal', 'Executive action', 'Renewable energy']",0,1,1,0,0,1,0,0,0
+1657,18,"['Renewable energy', 'Oil and gas industry']",0,0,0,0,0,1,0,1,0
+1657,17,"['Renewable energy', 'Oil and gas industry']",0,0,0,0,0,1,0,1,0
+1659,18,['Executive action'],0,0,1,0,0,0,0,0,0
+1659,17,['Executive action'],0,0,1,0,0,0,0,0,0
+1661,3,"['Executive action', 'Other climate policy']",0,0,1,0,0,0,0,0,1
+1661,17,['Executive action'],0,0,1,0,0,0,0,0,0
+1674,3,"['Paris Agreement', 'Executive action', 'Oil and gas industry']",1,0,1,0,0,0,0,1,0
+1674,17,"['Paris Agreement', 'Executive action', 'Oil and gas industry']",1,0,1,0,0,0,0,1,0
+1676,3,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1676,17,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1684,3,"['Paris Agreement', 'Executive action', 'Oil and gas industry']",1,0,1,0,0,0,0,1,0
+1684,17,"['Paris Agreement', 'Executive action', 'Oil and gas industry']",1,0,1,0,0,0,0,1,0
+1690,3,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1690,17,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1693,3,"['Paris Agreement', 'Executive action', 'Emission reduction', 'Oil and gas industry']",1,0,1,0,0,0,1,1,0
+1693,17,"['Paris Agreement', 'Executive action', 'Emission reduction']",1,0,1,0,0,0,1,0,0
+1696,3,"['Executive action', 'Renewable energy', 'Oil and gas industry']",0,0,1,0,0,1,0,1,0
+1696,17,"['Executive action', 'Renewable energy', 'Oil and gas industry']",0,0,1,0,0,1,0,1,0
+1697,3,"['Paris Agreement', 'Green New Deal', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",1,1,0,0,0,1,1,1,0
+1697,17,"['Paris Agreement', 'Green New Deal', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",1,1,0,0,0,1,1,1,0
+1698,3,"['Paris Agreement', 'Green New Deal', 'Executive action', 'Oil and gas industry']",1,1,1,0,0,0,0,1,0
+1698,17,"['Paris Agreement', 'Green New Deal', 'Executive action', 'Oil and gas industry']",1,1,1,0,0,0,0,1,0
+1699,3,"['Green New Deal', 'Executive action', 'Renewable energy', 'Oil and gas industry']",0,1,1,0,0,1,0,1,0
+1699,17,"['Green New Deal', 'Executive action', 'Renewable energy', 'Oil and gas industry']",0,1,1,0,0,1,0,1,0
+1704,3,"['(De)regulation and laws', 'Emission reduction', 'Oil and gas industry']",0,0,0,0,1,0,1,1,0
+1704,17,"['(De)regulation and laws', 'Emission reduction', 'Oil and gas industry']",0,0,0,0,1,0,1,1,0
+1706,3,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1706,17,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1707,3,"['Green New Deal', 'Emission reduction']",0,1,0,0,0,0,1,0,0
+1707,17,"['Green New Deal', 'Emission reduction']",0,1,0,0,0,0,1,0,0
+1708,3,"['Executive action', 'Emission reduction', 'Oil and gas industry']",0,0,1,0,0,0,1,1,0
+1708,17,"['Executive action', 'Emission reduction', 'Oil and gas industry']",0,0,1,0,0,0,1,1,0
+1709,3,['Executive action'],0,0,1,0,0,0,0,0,0
+1709,17,['Executive action'],0,0,1,0,0,0,0,0,0
+1710,3,"['(De)regulation and laws', 'Other climate policy']",0,0,0,0,1,0,0,0,1
+1710,17,['(De)regulation and laws'],0,0,0,0,1,0,0,0,0
+1712,3,"['Executive action', '(De)regulation and laws', 'Other climate policy']",0,0,1,0,1,0,0,0,1
+1712,17,"['Executive action', '(De)regulation and laws']",0,0,1,0,1,0,0,0,0
+1715,3,['Executive action'],0,0,1,0,0,0,0,0,0
+1715,17,['Executive action'],0,0,1,0,0,0,0,0,0
+1716,3,[],0,0,0,0,0,0,0,0,0
+1716,17,[],0,0,0,0,0,0,0,0,0
+1719,3,"['Paris Agreement', 'Executive action', '(De)regulation and laws', 'Emission reduction', 'Oil and gas industry']",1,0,1,0,1,0,1,1,0
+1719,17,"['Paris Agreement', 'Executive action', '(De)regulation and laws', 'Emission reduction', 'Oil and gas industry']",1,0,1,0,1,0,1,1,0
+1720,3,"['Executive action', 'Oil and gas industry']",0,0,1,0,0,0,0,1,0
+1720,17,"['Executive action', 'Oil and gas industry']",0,0,1,0,0,0,0,1,0
+1721,3,['Emission reduction'],0,0,0,0,0,0,1,0,0
+1721,17,['Emission reduction'],0,0,0,0,0,0,1,0,0
+1726,3,"['Paris Agreement', 'Executive action', 'Emission reduction', 'Oil and gas industry']",1,0,1,0,0,0,1,1,0
+1726,17,"['Paris Agreement', 'Executive action', 'Emission reduction', 'Oil and gas industry']",1,0,1,0,0,0,1,1,0
+1730,3,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1730,17,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1731,3,"['Emission reduction', 'Other climate policy']",0,0,0,0,0,0,1,0,1
+1731,17,"['Emission reduction', 'Other climate policy']",0,0,0,0,0,0,1,0,1
+1735,3,"['Executive action', 'Renewable energy', 'Oil and gas industry']",0,0,1,0,0,1,0,1,0
+1735,17,"['Executive action', 'Renewable energy', 'Oil and gas industry']",0,0,1,0,0,1,0,1,0
+1737,3,"['Paris Agreement', 'Executive action', 'Oil and gas industry']",1,0,1,0,0,0,0,1,0
+1737,17,"['Paris Agreement', 'Executive action', 'Oil and gas industry']",1,0,1,0,0,0,0,1,0
+1740,3,"['Executive action', 'Oil and gas industry']",0,0,1,0,0,0,0,1,0
+1740,17,"['Executive action', 'Oil and gas industry']",0,0,1,0,0,0,0,1,0
+1742,3,"['Paris Agreement', 'Executive action', 'Oil and gas industry']",1,0,1,0,0,0,0,1,0
+1742,17,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1743,3,['Executive action'],0,0,1,0,0,0,0,0,0
+1743,17,['Executive action'],0,0,1,0,0,0,0,0,0
+1747,3,"['Paris Agreement', 'Executive action', 'Renewable energy', 'Oil and gas industry']",1,0,1,0,0,1,0,1,0
+1747,17,"['Paris Agreement', 'Executive action', 'Renewable energy', 'Oil and gas industry']",1,0,1,0,0,1,0,1,0
+1750,3,"['Green New Deal', 'Executive action', 'Renewable energy', 'Oil and gas industry']",0,1,1,0,0,1,0,1,0
+1750,17,"['Green New Deal', 'Executive action', 'Renewable energy', 'Oil and gas industry']",0,1,1,0,0,1,0,1,0
+1755,3,"['Paris Agreement', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",1,0,0,0,0,1,1,1,0
+1755,17,"['Paris Agreement', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",1,0,0,0,0,1,1,1,0
+1756,3,"['Executive action', 'Renewable energy', 'Emission reduction']",0,0,1,0,0,1,1,0,0
+1756,17,"['Executive action', 'Renewable energy', 'Emission reduction']",0,0,1,0,0,1,1,0,0
+1757,3,"['Executive action', '(De)regulation and laws', 'Other climate policy']",0,0,1,0,1,0,0,0,1
+1757,17,"['Executive action', '(De)regulation and laws', 'Other climate policy']",0,0,1,0,1,0,0,0,1
+1759,3,"['Green New Deal', 'Executive action', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",0,1,1,0,0,1,1,1,0
+1759,17,"['Green New Deal', 'Executive action', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",0,1,1,0,0,1,1,1,0
+1760,3,"['Executive action', 'Renewable energy', 'Emission reduction', 'Oil and gas industry', 'Other climate policy']",0,0,1,0,0,1,1,1,1
+1760,17,"['Executive action', 'Renewable energy', 'Emission reduction', 'Oil and gas industry', 'Other climate policy']",0,0,1,0,0,1,1,1,1
+1761,3,"['Executive action', 'Emission reduction', 'Oil and gas industry', 'Other climate policy']",0,0,1,0,0,0,1,1,1
+1761,17,"['Executive action', 'Emission reduction', 'Oil and gas industry', 'Other climate policy']",0,0,1,0,0,0,1,1,1
+1762,3,"['Executive action', 'Emission reduction', 'Other climate policy']",0,0,1,0,0,0,1,0,1
+1762,17,"['Executive action', 'Emission reduction', 'Other climate policy']",0,0,1,0,0,0,1,0,1
+1763,3,"['Executive action', 'Renewable energy', 'Emission reduction', 'Oil and gas industry', 'Other climate policy']",0,0,1,0,0,1,1,1,1
+1763,17,"['Executive action', 'Renewable energy', 'Emission reduction', 'Oil and gas industry', 'Other climate policy']",0,0,1,0,0,1,1,1,1
+1764,3,"['Executive action', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",0,0,1,0,0,1,1,1,0
+1764,17,"['Executive action', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",0,0,1,0,0,1,1,1,0
+1765,3,"['Executive action', '(De)regulation and laws', 'Renewable energy', 'Emission reduction', 'Oil and gas industry', 'Other climate policy']",0,0,1,0,1,1,1,1,1
+1765,17,"['Executive action', '(De)regulation and laws', 'Renewable energy', 'Emission reduction', 'Oil and gas industry', 'Other climate policy']",0,0,1,0,1,1,1,1,1
+1768,3,"['Executive action', '(De)regulation and laws', 'Renewable energy', 'Emission reduction', 'Other climate policy']",0,0,1,0,1,1,1,0,1
+1768,17,"['Executive action', '(De)regulation and laws', 'Renewable energy', 'Emission reduction']",0,0,1,0,1,1,1,0,0
+1770,3,"['Green New Deal', 'Executive action', 'Oil and gas industry', 'Other climate policy']",0,1,1,0,0,0,0,1,1
+1770,17,"['Green New Deal', 'Executive action', 'Oil and gas industry', 'Other climate policy']",0,1,1,0,0,0,0,1,1
+1771,3,"['Green New Deal', 'Executive action', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",0,1,1,0,0,1,1,1,0
+1771,17,"['Green New Deal', 'Executive action', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",0,1,1,0,0,1,1,1,0
+1773,3,"['Executive action', 'Other climate policy']",0,0,1,0,0,0,0,0,1
+1773,17,"['Executive action', 'Renewable energy', 'Other climate policy']",0,0,1,0,0,1,0,0,1
+1774,3,"['Executive action', 'Oil and gas industry']",0,0,1,0,0,0,0,1,0
+1774,17,"['Executive action', 'Oil and gas industry']",0,0,1,0,0,0,0,1,0
+1779,3,"['Renewable energy', 'Emission reduction', 'Oil and gas industry', 'Other climate policy']",0,0,0,0,0,1,1,1,1
+1779,17,"['Renewable energy', 'Emission reduction', 'Oil and gas industry', 'Other climate policy']",0,0,0,0,0,1,1,1,1
+1780,3,"['Executive action', 'Oil and gas industry']",0,0,1,0,0,0,0,1,0
+1780,17,"['Executive action', 'Oil and gas industry']",0,0,1,0,0,0,0,1,0
+1781,3,"['Executive action', 'Oil and gas industry']",0,0,1,0,0,0,0,1,0
+1781,17,"['Executive action', 'Oil and gas industry']",0,0,1,0,0,0,0,1,0
+1784,3,"['Executive action', 'Renewable energy', 'Other climate policy']",0,0,1,0,0,1,0,0,1
+1784,17,"['Executive action', 'Renewable energy', 'Other climate policy']",0,0,1,0,0,1,0,0,1
+1785,3,"['Paris Agreement', 'Emission reduction', 'Oil and gas industry']",1,0,0,0,0,0,1,1,0
+1785,17,"['Paris Agreement', 'Emission reduction']",1,0,0,0,0,0,1,0,0
+1790,3,"['Executive action', 'Oil and gas industry', 'Other climate policy']",0,0,1,0,0,0,0,1,1
+1790,17,"['Executive action', 'Oil and gas industry', 'Other climate policy']",0,0,1,0,0,0,0,1,1
+1793,3,"['Executive action', 'Other climate policy']",0,0,1,0,0,0,0,0,1
+1793,17,"['Executive action', 'Emission reduction', 'Other climate policy']",0,0,1,0,0,0,1,0,1
+1794,3,['(De)regulation and laws'],0,0,0,0,1,0,0,0,0
+1794,17,['(De)regulation and laws'],0,0,0,0,1,0,0,0,0
+1795,3,"['(De)regulation and laws', 'Renewable energy', 'Emission reduction']",0,0,0,0,1,1,1,0,0
+1795,17,"['(De)regulation and laws', 'Emission reduction']",0,0,0,0,1,0,1,0,0
+1798,3,"['Paris Agreement', 'Executive action', '(De)regulation and laws', 'Renewable energy', 'Other climate policy']",1,0,1,0,1,1,0,0,1
+1798,17,"['Paris Agreement', 'Executive action', '(De)regulation and laws', 'Renewable energy']",1,0,1,0,1,1,0,0,0
+1799,3,['Executive action'],0,0,1,0,0,0,0,0,0
+1799,17,['Executive action'],0,0,1,0,0,0,0,0,0
+1802,3,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1802,17,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1824,3,"['Executive action', 'Emission reduction', 'Oil and gas industry']",0,0,1,0,0,0,1,1,0
+1824,17,"['Executive action', 'Emission reduction', 'Oil and gas industry']",0,0,1,0,0,0,1,1,0
+1825,3,"['Executive action', 'Oil and gas industry']",0,0,1,0,0,0,0,1,0
+1825,17,"['Executive action', 'Oil and gas industry']",0,0,1,0,0,0,0,1,0
+1826,3,['(De)regulation and laws'],0,0,0,0,1,0,0,0,0
+1826,17,['(De)regulation and laws'],0,0,0,0,1,0,0,0,0
+1827,3,"['(De)regulation and laws', 'Other climate policy']",0,0,0,0,1,0,0,0,1
+1827,17,['(De)regulation and laws'],0,0,0,0,1,0,0,0,0
+1831,3,"['Paris Agreement', 'Executive action', 'Renewable energy', 'Emission reduction']",1,0,1,0,0,1,1,0,0
+1831,17,"['Paris Agreement', 'Executive action', 'Renewable energy', 'Emission reduction']",1,0,1,0,0,1,1,0,0
+1836,3,"['Executive action', 'Emission reduction', 'Oil and gas industry']",0,0,1,0,0,0,1,1,0
+1836,17,"['Executive action', 'Oil and gas industry']",0,0,1,0,0,0,0,1,0
+1841,3,"['Executive action', 'Emission reduction', 'Oil and gas industry']",0,0,1,0,0,0,1,1,0
+1841,17,"['Executive action', 'Oil and gas industry']",0,0,1,0,0,0,0,1,0
+1843,3,['(De)regulation and laws'],0,0,0,0,1,0,0,0,0
+1843,17,['(De)regulation and laws'],0,0,0,0,1,0,0,0,0
+1847,3,['Paris Agreement'],1,0,0,0,0,0,0,0,0
+1847,17,['Paris Agreement'],1,0,0,0,0,0,0,0,0
+1850,3,"['Executive action', 'Emission reduction', 'Oil and gas industry']",0,0,1,0,0,0,1,1,0
+1850,17,"['Executive action', 'Oil and gas industry']",0,0,1,0,0,0,0,1,0
+1851,3,"['(De)regulation and laws', 'Renewable energy', 'Oil and gas industry']",0,0,0,0,1,1,0,1,0
+1851,17,"['(De)regulation and laws', 'Renewable energy', 'Oil and gas industry']",0,0,0,0,1,1,0,1,0
+1858,3,"['Executive action', 'Emission reduction', 'Oil and gas industry']",0,0,1,0,0,0,1,1,0
+1858,17,"['Executive action', 'Emission reduction', 'Oil and gas industry']",0,0,1,0,0,0,1,1,0
+1870,16,"['Paris Agreement', 'Executive action', 'Emission reduction', 'Oil and gas industry']",1,0,1,0,0,0,1,1,0
+1870,17,"['Paris Agreement', 'Executive action', 'Emission reduction', 'Oil and gas industry']",1,0,1,0,0,0,1,1,0
+1871,16,['Green New Deal'],0,1,0,0,0,0,0,0,0
+1871,17,['Green New Deal'],0,1,0,0,0,0,0,0,0
+1872,16,[],0,0,0,0,0,0,0,0,0
+1872,17,[],0,0,0,0,0,0,0,0,0
+1883,16,"['Executive action', 'Emission reduction']",0,0,1,0,0,0,1,0,0
+1883,17,"['Executive action', 'Emission reduction']",0,0,1,0,0,0,1,0,0
+1886,16,['Renewable energy'],0,0,0,0,0,1,0,0,0
+1886,17,['Renewable energy'],0,0,0,0,0,1,0,0,0
+1890,16,"['Executive action', 'Oil and gas industry']",0,0,1,0,0,0,0,1,0
+1890,17,"['Executive action', 'Oil and gas industry']",0,0,1,0,0,0,0,1,0
+1892,16,"['Executive action', '(De)regulation and laws', 'Oil and gas industry', 'Other climate policy']",0,0,1,0,1,0,0,1,1
+1892,17,"['Executive action', '(De)regulation and laws', 'Oil and gas industry', 'Other climate policy']",0,0,1,0,1,0,0,1,1
+1893,16,"['Renewable energy', 'Emission reduction', 'Oil and gas industry']",0,0,0,0,0,1,1,1,0
+1893,17,"['Renewable energy', 'Emission reduction', 'Oil and gas industry']",0,0,0,0,0,1,1,1,0
+1896,16,"['(De)regulation and laws', 'Renewable energy', 'Oil and gas industry']",0,0,0,0,1,1,0,1,0
+1896,17,"['(De)regulation and laws', 'Renewable energy', 'Oil and gas industry']",0,0,0,0,1,1,0,1,0
+1901,16,['Executive action'],0,0,1,0,0,0,0,0,0
+1901,17,['Executive action'],0,0,1,0,0,0,0,0,0
+1909,16,"['Paris Agreement', 'Executive action', 'Renewable energy', 'Oil and gas industry']",1,0,1,0,0,1,0,1,0
+1909,17,"['Paris Agreement', 'Executive action', 'Renewable energy', 'Oil and gas industry']",1,0,1,0,0,1,0,1,0
+1923,16,"['Renewable energy', 'Emission reduction', 'Oil and gas industry']",0,0,0,0,0,1,1,1,0
+1923,17,"['Renewable energy', 'Emission reduction', 'Oil and gas industry']",0,0,0,0,0,1,1,1,0
+1924,16,"['(De)regulation and laws', 'Renewable energy']",0,0,0,0,1,1,0,0,0
+1924,17,"['(De)regulation and laws', 'Renewable energy']",0,0,0,0,1,1,0,0,0
+1932,16,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1932,17,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1937,18,"['Green New Deal', 'Executive action', '(De)regulation and laws', 'Other climate policy']",0,1,1,0,1,0,0,0,1
+1937,17,"['Green New Deal', 'Executive action', '(De)regulation and laws', 'Other climate policy']",0,1,1,0,1,0,0,0,1
+1938,18,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1938,17,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+1942,18,"['Executive action', 'Oil and gas industry', 'Other climate policy']",0,0,1,0,0,0,0,1,1
+1942,17,"['Executive action', 'Oil and gas industry', 'Other climate policy']",0,0,1,0,0,0,0,1,1
+1946,18,"['Renewable energy', 'Emission reduction', 'Oil and gas industry']",0,0,0,0,0,1,1,1,0
+1946,17,"['Renewable energy', 'Emission reduction']",0,0,0,0,0,1,1,0,0
+1952,18,"['Executive action', '(De)regulation and laws']",0,0,1,0,1,0,0,0,0
+1952,17,"['Executive action', '(De)regulation and laws']",0,0,1,0,1,0,0,0,0
+1953,18,['(De)regulation and laws'],0,0,0,0,1,0,0,0,0
+1953,17,['(De)regulation and laws'],0,0,0,0,1,0,0,0,0
+1957,18,['Emission reduction'],0,0,0,0,0,0,1,0,0
+1957,17,[],0,0,0,0,0,0,0,0,0
+1960,18,['Oil and gas industry'],0,0,0,0,0,0,0,1,0
+1960,17,['Oil and gas industry'],0,0,0,0,0,0,0,1,0
+1965,18,"['Paris Agreement', 'Executive action', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",1,0,1,0,0,1,1,1,0
+1965,17,"['Paris Agreement', 'Executive action', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",1,0,1,0,0,1,1,1,0
+1968,18,"['Executive action', 'Emission reduction']",0,0,1,0,0,0,1,0,0
+1968,17,"['Executive action', 'Emission reduction']",0,0,1,0,0,0,1,0,0
+1969,18,"['Paris Agreement', 'Executive action', '(De)regulation and laws', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",1,0,1,0,1,1,1,1,0
+1969,17,"['Paris Agreement', 'Executive action', '(De)regulation and laws', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",1,0,1,0,1,1,1,1,0
+1970,18,[],0,0,0,0,0,0,0,0,0
+1970,17,[],0,0,0,0,0,0,0,0,0
+1971,18,"['Executive action', 'Emission reduction']",0,0,1,0,0,0,1,0,0
+1971,17,"['Executive action', 'Emission reduction']",0,0,1,0,0,0,1,0,0
+1972,18,"['Executive action', 'Emission reduction']",0,0,1,0,0,0,1,0,0
+1972,17,"['Executive action', 'Emission reduction', 'Other climate policy']",0,0,1,0,0,0,1,0,1
+1973,18,"['(De)regulation and laws', 'Emission reduction', 'Other climate policy']",0,0,0,0,1,0,1,0,1
+1973,17,"['(De)regulation and laws', 'Emission reduction', 'Other climate policy']",0,0,0,0,1,0,1,0,1
+1974,18,"['Paris Agreement', 'Executive action', 'Emission reduction']",1,0,1,0,0,0,1,0,0
+1974,17,"['Paris Agreement', 'Executive action', 'Emission reduction']",1,0,1,0,0,0,1,0,0
+1976,18,['Emission reduction'],0,0,0,0,0,0,1,0,0
+1976,17,['Emission reduction'],0,0,0,0,0,0,1,0,0
+1978,16,"['Paris Agreement', 'Renewable energy', 'Oil and gas industry']",1,0,0,0,0,1,0,1,0
+1978,17,"['Paris Agreement', 'Renewable energy', 'Oil and gas industry']",1,0,0,0,0,1,0,1,0
+1979,16,"['Paris Agreement', 'Executive action', '(De)regulation and laws', 'Oil and gas industry']",1,0,1,0,1,0,0,1,0
+1979,17,"['Executive action', '(De)regulation and laws', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",0,0,1,0,1,1,1,1,0
+1980,16,"['Paris Agreement', 'Green New Deal', 'Executive action', '(De)regulation and laws', 'Renewable energy', 'Emission reduction']",1,1,1,0,1,1,1,0,0
+1980,17,"['Paris Agreement', 'Green New Deal', 'Executive action', '(De)regulation and laws', 'Renewable energy', 'Emission reduction']",1,1,1,0,1,1,1,0,0
+1981,16,"['Paris Agreement', 'Executive action', '(De)regulation and laws', 'Renewable energy', 'Emission reduction']",1,0,1,0,1,1,1,0,0
+1981,17,"['Paris Agreement', 'Executive action', '(De)regulation and laws', 'Renewable energy', 'Emission reduction']",1,0,1,0,1,1,1,0,0
+1984,16,"['Paris Agreement', 'Executive action', '(De)regulation and laws', 'Oil and gas industry', 'Other climate policy']",1,0,1,0,1,0,0,1,1
+1984,17,"['Paris Agreement', 'Executive action', '(De)regulation and laws', 'Oil and gas industry', 'Other climate policy']",1,0,1,0,1,0,0,1,1
+1985,16,"['Paris Agreement', 'Executive action', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",1,0,1,0,0,1,1,1,0
+1985,17,"['Paris Agreement', 'Executive action', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",1,0,1,0,0,1,1,1,0
+1986,16,"['Paris Agreement', 'Executive action', '(De)regulation and laws', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",1,0,1,0,1,1,1,1,0
+1986,17,"['Paris Agreement', 'Executive action', '(De)regulation and laws', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",1,0,1,0,1,1,1,1,0
+1987,16,"['Executive action', 'Emission reduction']",0,0,1,0,0,0,1,0,0
+1987,17,"['Executive action', 'Emission reduction']",0,0,1,0,0,0,1,0,0
+1991,16,"['Executive action', 'Other climate policy']",0,0,1,0,0,0,0,0,1
+1991,17,"['Executive action', 'Other climate policy']",0,0,1,0,0,0,0,0,1
+1992,3,"['Executive action', 'Renewable energy', 'Emission reduction']",0,0,1,0,0,1,1,0,0
+1992,17,"['Executive action', 'Renewable energy', 'Emission reduction']",0,0,1,0,0,1,1,0,0
+1994,3,"['Executive action', 'Other climate policy']",0,0,1,0,0,0,0,0,1
+1994,17,"['Executive action', 'Other climate policy']",0,0,1,0,0,0,0,0,1
+1997,3,"['Paris Agreement', 'Green New Deal', 'Executive action', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",1,1,1,0,0,1,1,1,0
+1997,17,"['Paris Agreement', 'Green New Deal', 'Executive action', 'Renewable energy', 'Oil and gas industry']",1,1,1,0,0,1,0,1,0
+1998,3,"['Executive action', 'Emission reduction']",0,0,1,0,0,0,1,0,0
+1998,17,"['Executive action', 'Emission reduction']",0,0,1,0,0,0,1,0,0
+1999,3,"['Executive action', 'Emission reduction']",0,0,1,0,0,0,1,0,0
+1999,17,"['Executive action', 'Emission reduction']",0,0,1,0,0,0,1,0,0
+2000,3,"['Executive action', '(De)regulation and laws', 'Other climate policy']",0,0,1,0,1,0,0,0,1
+2000,17,"['Executive action', '(De)regulation and laws']",0,0,1,0,1,0,0,0,0
+2001,3,['Executive action'],0,0,1,0,0,0,0,0,0
+2001,17,['Executive action'],0,0,1,0,0,0,0,0,0
+2002,3,"['Paris Agreement', 'Executive action', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",1,0,1,0,0,1,1,1,0
+2002,17,"['Paris Agreement', 'Executive action', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",1,0,1,0,0,1,1,1,0
+2003,3,"['Paris Agreement', 'Executive action', 'Emission reduction', 'Other climate policy']",1,0,1,0,0,0,1,0,1
+2003,17,"['Paris Agreement', 'Executive action', 'Emission reduction', 'Other climate policy']",1,0,1,0,0,0,1,0,1
+2004,3,"['Paris Agreement', 'Renewable energy', 'Emission reduction']",1,0,0,0,0,1,1,0,0
+2004,17,"['Paris Agreement', 'Renewable energy', 'Emission reduction']",1,0,0,0,0,1,1,0,0
+2005,3,"['Paris Agreement', 'Executive action', 'Renewable energy', 'Emission reduction']",1,0,1,0,0,1,1,0,0
+2005,17,"['Paris Agreement', 'Executive action', 'Renewable energy', 'Emission reduction']",1,0,1,0,0,1,1,0,0
+2006,3,"['Executive action', 'Emergency declaration', 'Renewable energy', 'Emission reduction']",0,0,1,1,0,1,1,0,0
+2006,17,"['Executive action', 'Emergency declaration', 'Renewable energy', 'Emission reduction']",0,0,1,1,0,1,1,0,0
+2007,3,"['Green New Deal', 'Executive action', '(De)regulation and laws', 'Renewable energy', 'Other climate policy']",0,1,1,0,1,1,0,0,1
+2007,17,"['Green New Deal', 'Executive action', '(De)regulation and laws', 'Renewable energy', 'Other climate policy']",0,1,1,0,1,1,0,0,1
+2009,3,['Executive action'],0,0,1,0,0,0,0,0,0
+2009,17,['Executive action'],0,0,1,0,0,0,0,0,0
+2013,3,[],0,0,0,0,0,0,0,0,0
+2013,17,[],0,0,0,0,0,0,0,0,0
+2015,3,"['Green New Deal', 'Executive action', 'Oil and gas industry']",0,1,1,0,0,0,0,1,0
+2015,17,"['Green New Deal', 'Executive action', 'Oil and gas industry']",0,1,1,0,0,0,0,1,0
+2016,3,"['Paris Agreement', 'Executive action', 'Oil and gas industry']",1,0,1,0,0,0,0,1,0
+2016,17,"['Paris Agreement', 'Executive action', 'Oil and gas industry']",1,0,1,0,0,0,0,1,0
+2018,3,"['Green New Deal', 'Executive action', 'Emission reduction']",0,1,1,0,0,0,1,0,0
+2018,17,"['Green New Deal', 'Executive action', 'Emission reduction']",0,1,1,0,0,0,1,0,0
+2019,3,['Executive action'],0,0,1,0,0,0,0,0,0
+2019,17,['Executive action'],0,0,1,0,0,0,0,0,0
+2020,3,"['Paris Agreement', 'Green New Deal', 'Executive action', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",1,1,1,0,0,1,1,1,0
+2020,17,"['Paris Agreement', 'Green New Deal', 'Executive action', 'Emission reduction', 'Oil and gas industry']",1,1,1,0,0,0,1,1,0
+2022,3,"['Executive action', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",0,0,1,0,0,1,1,1,0
+2022,17,"['Executive action', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",0,0,1,0,0,1,1,1,0
+2023,3,"['Executive action', 'Renewable energy', 'Oil and gas industry']",0,0,1,0,0,1,0,1,0
+2023,17,"['Executive action', 'Renewable energy', 'Oil and gas industry']",0,0,1,0,0,1,0,1,0
+2030,3,"['(De)regulation and laws', 'Emission reduction', 'Oil and gas industry']",0,0,0,0,1,0,1,1,0
+2030,17,"['(De)regulation and laws', 'Emission reduction', 'Oil and gas industry']",0,0,0,0,1,0,1,1,0
+2033,3,['Executive action'],0,0,1,0,0,0,0,0,0
+2033,17,['Executive action'],0,0,1,0,0,0,0,0,0
+2035,3,"['Executive action', 'Emission reduction']",0,0,1,0,0,0,1,0,0
+2035,17,"['Executive action', 'Emission reduction']",0,0,1,0,0,0,1,0,0
+2046,3,"['Executive action', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",0,0,1,0,0,1,1,1,0
+2046,17,"['Executive action', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",0,0,1,0,0,1,1,1,0
+2047,3,"['Executive action', '(De)regulation and laws', 'Renewable energy', 'Emission reduction', 'Oil and gas industry', 'Other climate policy']",0,0,1,0,1,1,1,1,1
+2047,17,"['Executive action', '(De)regulation and laws', 'Renewable energy', 'Emission reduction', 'Oil and gas industry', 'Other climate policy']",0,0,1,0,1,1,1,1,1
+2048,3,"['Green New Deal', 'Executive action', 'Emission reduction', 'Other climate policy']",0,1,1,0,0,0,1,0,1
+2048,17,"['Green New Deal', 'Executive action', 'Emission reduction', 'Other climate policy']",0,1,1,0,0,0,1,0,1
+2050,3,"['Executive action', '(De)regulation and laws', 'Emission reduction', 'Oil and gas industry']",0,0,1,0,1,0,1,1,0
+2050,17,"['Executive action', '(De)regulation and laws', 'Emission reduction', 'Oil and gas industry']",0,0,1,0,1,0,1,1,0
+2051,3,"['Paris Agreement', 'Executive action', 'Emission reduction']",1,0,1,0,0,0,1,0,0
+2051,17,"['Paris Agreement', 'Executive action', 'Emission reduction']",1,0,1,0,0,0,1,0,0
+2053,3,['Executive action'],0,0,1,0,0,0,0,0,0
+2053,17,['Executive action'],0,0,1,0,0,0,0,0,0
+2057,3,"['Executive action', 'Emission reduction']",0,0,1,0,0,0,1,0,0
+2057,17,"['Executive action', 'Emission reduction']",0,0,1,0,0,0,1,0,0
+2059,3,"['Paris Agreement', 'Executive action', 'Emission reduction']",1,0,1,0,0,0,1,0,0
+2059,17,"['Paris Agreement', 'Executive action', 'Emission reduction']",1,0,1,0,0,0,1,0,0
+2060,3,"['Paris Agreement', 'Executive action', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",1,0,1,0,0,1,1,1,0
+2060,17,"['Paris Agreement', 'Executive action', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",1,0,1,0,0,1,1,1,0
+2062,3,"['Executive action', '(De)regulation and laws', 'Emission reduction', 'Other climate policy']",0,0,1,0,1,0,1,0,1
+2062,17,"['Executive action', '(De)regulation and laws', 'Emission reduction', 'Other climate policy']",0,0,1,0,1,0,1,0,1
+2063,3,"['Executive action', 'Emission reduction']",0,0,1,0,0,0,1,0,0
+2063,17,"['Executive action', 'Emission reduction']",0,0,1,0,0,0,1,0,0
+2064,3,"['Paris Agreement', 'Executive action', 'Emission reduction']",1,0,1,0,0,0,1,0,0
+2064,17,"['Paris Agreement', 'Executive action', 'Emission reduction']",1,0,1,0,0,0,1,0,0
+2065,3,"['Paris Agreement', 'Executive action', 'Emission reduction']",1,0,1,0,0,0,1,0,0
+2065,17,"['Paris Agreement', 'Executive action', 'Emission reduction']",1,0,1,0,0,0,1,0,0
+2066,3,"['Paris Agreement', 'Executive action', 'Emission reduction']",1,0,1,0,0,0,1,0,0
+2066,17,"['Executive action', 'Emission reduction']",0,0,1,0,0,0,1,0,0
+2067,3,"['Paris Agreement', 'Executive action', 'Renewable energy', 'Emission reduction']",1,0,1,0,0,1,1,0,0
+2067,17,"['Paris Agreement', 'Executive action', 'Emission reduction']",1,0,1,0,0,0,1,0,0
+2068,3,"['Paris Agreement', 'Executive action', 'Emission reduction']",1,0,1,0,0,0,1,0,0
+2068,17,"['Paris Agreement', 'Executive action', 'Emission reduction']",1,0,1,0,0,0,1,0,0
+2069,3,"['Paris Agreement', 'Executive action', 'Emission reduction']",1,0,1,0,0,0,1,0,0
+2069,17,"['Executive action', 'Emission reduction']",0,0,1,0,0,0,1,0,0
+2070,3,"['Executive action', 'Renewable energy']",0,0,1,0,0,1,0,0,0
+2070,17,"['Executive action', 'Renewable energy']",0,0,1,0,0,1,0,0,0
+2072,3,"['Green New Deal', 'Executive action', '(De)regulation and laws', 'Oil and gas industry']",0,1,1,0,1,0,0,1,0
+2072,17,"['Green New Deal', 'Executive action', '(De)regulation and laws', 'Oil and gas industry']",0,1,1,0,1,0,0,1,0
+2073,3,"['(De)regulation and laws', 'Emission reduction', 'Other climate policy']",0,0,0,0,1,0,1,0,1
+2073,17,"['(De)regulation and laws', 'Emission reduction', 'Other climate policy']",0,0,0,0,1,0,1,0,1
+2074,3,['(De)regulation and laws'],0,0,0,0,1,0,0,0,0
+2074,17,['(De)regulation and laws'],0,0,0,0,1,0,0,0,0
+2076,3,"['Executive action', '(De)regulation and laws', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",0,0,1,0,1,1,1,1,0
+2076,17,"['Executive action', '(De)regulation and laws', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",0,0,1,0,1,1,1,1,0
+2077,3,"['Paris Agreement', 'Green New Deal', 'Executive action', 'Emission reduction']",1,1,1,0,0,0,1,0,0
+2077,17,"['Paris Agreement', 'Green New Deal', 'Executive action', 'Emission reduction']",1,1,1,0,0,0,1,0,0
+2078,3,"['Executive action', 'Renewable energy']",0,0,1,0,0,1,0,0,0
+2078,17,"['Executive action', 'Renewable energy']",0,0,1,0,0,1,0,0,0
+2079,3,"['Green New Deal', 'Executive action', 'Emission reduction']",0,1,1,0,0,0,1,0,0
+2079,17,"['Green New Deal', 'Executive action', 'Emission reduction']",0,1,1,0,0,0,1,0,0
+2081,3,"['Paris Agreement', 'Executive action', 'Emission reduction']",1,0,1,0,0,0,1,0,0
+2081,17,"['Paris Agreement', 'Executive action', 'Emission reduction']",1,0,1,0,0,0,1,0,0
+2083,3,['Executive action'],0,0,1,0,0,0,0,0,0
+2083,17,['Executive action'],0,0,1,0,0,0,0,0,0
+2084,3,"['Green New Deal', 'Oil and gas industry']",0,1,0,0,0,0,0,1,0
+2084,17,['Green New Deal'],0,1,0,0,0,0,0,0,0
+2085,3,"['Executive action', '(De)regulation and laws', 'Renewable energy', 'Emission reduction']",0,0,1,0,1,1,1,0,0
+2085,17,"['Executive action', '(De)regulation and laws', 'Renewable energy', 'Emission reduction']",0,0,1,0,1,1,1,0,0
+2086,3,"['Executive action', 'Emission reduction', 'Oil and gas industry']",0,0,1,0,0,0,1,1,0
+2086,17,"['Executive action', 'Emission reduction', 'Oil and gas industry']",0,0,1,0,0,0,1,1,0
+2087,3,"['Executive action', 'Emission reduction']",0,0,1,0,0,0,1,0,0
+2087,17,"['Executive action', 'Emission reduction']",0,0,1,0,0,0,1,0,0
+2088,3,"['Paris Agreement', 'Executive action', 'Emission reduction']",1,0,1,0,0,0,1,0,0
+2088,17,"['Paris Agreement', 'Executive action', 'Emission reduction']",1,0,1,0,0,0,1,0,0
+2091,3,"['Executive action', 'Emission reduction', 'Oil and gas industry']",0,0,1,0,0,0,1,1,0
+2091,17,"['Executive action', 'Emission reduction', 'Oil and gas industry']",0,0,1,0,0,0,1,1,0
+2092,3,"['Executive action', 'Emission reduction']",0,0,1,0,0,0,1,0,0
+2092,17,"['Executive action', 'Emission reduction']",0,0,1,0,0,0,1,0,0
+2093,3,"['Executive action', 'Emission reduction', 'Other climate policy']",0,0,1,0,0,0,1,0,1
+2093,17,"['Executive action', 'Emission reduction', 'Other climate policy']",0,0,1,0,0,0,1,0,1
+2096,3,"['Executive action', 'Emission reduction', 'Other climate policy']",0,0,1,0,0,0,1,0,1
+2096,17,"['Executive action', 'Emission reduction', 'Other climate policy']",0,0,1,0,0,0,1,0,1
+2097,3,"['Green New Deal', 'Executive action', 'Emission reduction']",0,1,1,0,0,0,1,0,0
+2097,17,"['Green New Deal', 'Executive action', 'Emission reduction']",0,1,1,0,0,0,1,0,0
+2098,3,"['Paris Agreement', 'Green New Deal', 'Executive action', 'Emission reduction']",1,1,1,0,0,0,1,0,0
+2098,17,"['Paris Agreement', 'Green New Deal', 'Executive action', 'Emission reduction']",1,1,1,0,0,0,1,0,0
+2099,3,"['Paris Agreement', 'Executive action', 'Emission reduction']",1,0,1,0,0,0,1,0,0
+2099,17,"['Paris Agreement', 'Executive action', 'Emission reduction']",1,0,1,0,0,0,1,0,0
+2100,3,"['Executive action', 'Emission reduction']",0,0,1,0,0,0,1,0,0
+2100,17,"['Executive action', 'Emission reduction']",0,0,1,0,0,0,1,0,0
+2102,3,"['Paris Agreement', 'Executive action', 'Emission reduction', 'Other climate policy']",1,0,1,0,0,0,1,0,1
+2102,17,"['Paris Agreement', 'Executive action', 'Emission reduction', 'Other climate policy']",1,0,1,0,0,0,1,0,1
+2104,3,"['Executive action', 'Renewable energy']",0,0,1,0,0,1,0,0,0
+2104,17,"['Executive action', 'Renewable energy']",0,0,1,0,0,1,0,0,0
+2108,3,"['Executive action', '(De)regulation and laws', 'Other climate policy']",0,0,1,0,1,0,0,0,1
+2108,17,"['Executive action', '(De)regulation and laws', 'Other climate policy']",0,0,1,0,1,0,0,0,1
+2113,3,"['Green New Deal', 'Executive action', '(De)regulation and laws', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",0,1,1,0,1,1,1,1,0
+2113,17,"['Green New Deal', 'Executive action', '(De)regulation and laws', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",0,1,1,0,1,1,1,1,0
+2115,3,"['Executive action', 'Emission reduction']",0,0,1,0,0,0,1,0,0
+2115,17,"['Executive action', 'Emission reduction']",0,0,1,0,0,0,1,0,0
+2117,3,"['Renewable energy', 'Emission reduction', 'Oil and gas industry']",0,0,0,0,0,1,1,1,0
+2117,17,"['Emission reduction', 'Oil and gas industry']",0,0,0,0,0,0,1,1,0
+2118,3,"['Executive action', '(De)regulation and laws', 'Emission reduction', 'Oil and gas industry']",0,0,1,0,1,0,1,1,0
+2118,17,"['Executive action', '(De)regulation and laws', 'Emission reduction', 'Oil and gas industry']",0,0,1,0,1,0,1,1,0
+2120,3,['Renewable energy'],0,0,0,0,0,1,0,0,0
+2120,17,['Renewable energy'],0,0,0,0,0,1,0,0,0
+2121,3,"['Executive action', 'Emission reduction']",0,0,1,0,0,0,1,0,0
+2121,17,"['Executive action', 'Emission reduction']",0,0,1,0,0,0,1,0,0
+2123,3,"['Paris Agreement', 'Executive action', 'Emission reduction']",1,0,1,0,0,0,1,0,0
+2123,17,"['Paris Agreement', 'Executive action', 'Emission reduction']",1,0,1,0,0,0,1,0,0
+2126,3,"['Paris Agreement', 'Executive action', 'Emission reduction']",1,0,1,0,0,0,1,0,0
+2126,17,"['Paris Agreement', 'Executive action', 'Emission reduction']",1,0,1,0,0,0,1,0,0
+2127,3,"['Executive action', '(De)regulation and laws', 'Emission reduction', 'Oil and gas industry']",0,0,1,0,1,0,1,1,0
+2127,17,"['Executive action', '(De)regulation and laws', 'Emission reduction', 'Oil and gas industry']",0,0,1,0,1,0,1,1,0
+2128,3,"['Paris Agreement', 'Executive action', 'Emission reduction']",1,0,1,0,0,0,1,0,0
+2128,17,"['Paris Agreement', 'Executive action', 'Emission reduction']",1,0,1,0,0,0,1,0,0
+2129,3,"['Paris Agreement', 'Executive action', '(De)regulation and laws', 'Renewable energy', 'Emission reduction', 'Oil and gas industry', 'Other climate policy']",1,0,1,0,1,1,1,1,1
+2129,17,"['Paris Agreement', 'Executive action', '(De)regulation and laws', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",1,0,1,0,1,1,1,1,0
+2132,3,"['Paris Agreement', 'Executive action', 'Renewable energy', 'Emission reduction']",1,0,1,0,0,1,1,0,0
+2132,17,"['Paris Agreement', 'Executive action', 'Renewable energy', 'Emission reduction']",1,0,1,0,0,1,1,0,0
+2133,3,"['Paris Agreement', 'Executive action', 'Renewable energy', 'Emission reduction']",1,0,1,0,0,1,1,0,0
+2133,17,"['Paris Agreement', 'Executive action', 'Renewable energy', 'Emission reduction']",1,0,1,0,0,1,1,0,0
+2134,3,"['Executive action', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",0,0,1,0,0,1,1,1,0
+2134,17,"['Executive action', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",0,0,1,0,0,1,1,1,0
+2138,3,"['Executive action', 'Emission reduction']",0,0,1,0,0,0,1,0,0
+2138,17,"['Executive action', 'Emission reduction']",0,0,1,0,0,0,1,0,0
+2139,3,"['Executive action', 'Emission reduction']",0,0,1,0,0,0,1,0,0
+2139,17,"['Executive action', 'Emission reduction']",0,0,1,0,0,0,1,0,0
+2144,3,"['Executive action', 'Renewable energy', 'Emission reduction', 'Other climate policy']",0,0,1,0,0,1,1,0,1
+2144,17,"['Executive action', 'Renewable energy', 'Emission reduction', 'Other climate policy']",0,0,1,0,0,1,1,0,1
+2151,3,"['Executive action', 'Other climate policy']",0,0,1,0,0,0,0,0,1
+2151,17,"['Executive action', 'Other climate policy']",0,0,1,0,0,0,0,0,1
+2153,3,"['Executive action', 'Emission reduction']",0,0,1,0,0,0,1,0,0
+2153,17,"['Executive action', 'Emission reduction']",0,0,1,0,0,0,1,0,0
+2156,3,['Executive action'],0,0,1,0,0,0,0,0,0
+2156,17,['Executive action'],0,0,1,0,0,0,0,0,0
+2157,3,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+2157,17,"['Paris Agreement', 'Executive action']",1,0,1,0,0,0,0,0,0
+2159,3,"['Paris Agreement', 'Executive action', 'Emission reduction']",1,0,1,0,0,0,1,0,0
+2159,17,"['Executive action', 'Emission reduction']",0,0,1,0,0,0,1,0,0
+2160,3,"['Executive action', 'Renewable energy', 'Emission reduction']",0,0,1,0,0,1,1,0,0
+2160,17,"['Executive action', 'Renewable energy', 'Emission reduction']",0,0,1,0,0,1,1,0,0
+2164,3,['Paris Agreement'],1,0,0,0,0,0,0,0,0
+2164,17,['Paris Agreement'],1,0,0,0,0,0,0,0,0
+2166,3,"['Paris Agreement', 'Renewable energy']",1,0,0,0,0,1,0,0,0
+2166,17,"['Paris Agreement', 'Renewable energy']",1,0,0,0,0,1,0,0,0
+2168,3,"['Executive action', 'Renewable energy', 'Emission reduction']",0,0,1,0,0,1,1,0,0
+2168,17,"['Executive action', 'Renewable energy', 'Emission reduction']",0,0,1,0,0,1,1,0,0
+2170,3,['Executive action'],0,0,1,0,0,0,0,0,0
+2170,17,['Executive action'],0,0,1,0,0,0,0,0,0
+2178,3,"['(De)regulation and laws', 'Renewable energy', 'Oil and gas industry']",0,0,0,0,1,1,0,1,0
+2178,17,"['(De)regulation and laws', 'Renewable energy', 'Oil and gas industry']",0,0,0,0,1,1,0,1,0
+2191,3,['Other climate policy'],0,0,0,0,0,0,0,0,1
+2191,17,['Other climate policy'],0,0,0,0,0,0,0,0,1
+2195,3,"['Executive action', 'Emission reduction']",0,0,1,0,0,0,1,0,0
+2195,17,"['Executive action', 'Emission reduction']",0,0,1,0,0,0,1,0,0
+2198,3,['Executive action'],0,0,1,0,0,0,0,0,0
+2198,17,['Executive action'],0,0,1,0,0,0,0,0,0
+2202,3,['(De)regulation and laws'],0,0,0,0,1,0,0,0,0
+2202,17,['(De)regulation and laws'],0,0,0,0,1,0,0,0,0
+2206,3,['Executive action'],0,0,1,0,0,0,0,0,0
+2206,17,['Executive action'],0,0,1,0,0,0,0,0,0
+2207,3,['Executive action'],0,0,1,0,0,0,0,0,0
+2207,17,['Executive action'],0,0,1,0,0,0,0,0,0
+2209,3,['Green New Deal'],0,1,0,0,0,0,0,0,0
+2209,17,['Green New Deal'],0,1,0,0,0,0,0,0,0
+2215,3,"['Executive action', '(De)regulation and laws', 'Other climate policy']",0,0,1,0,1,0,0,0,1
+2215,17,"['Executive action', '(De)regulation and laws', 'Other climate policy']",0,0,1,0,1,0,0,0,1
+2216,3,"['Green New Deal', 'Executive action', 'Emission reduction']",0,1,1,0,0,0,1,0,0
+2216,17,"['Green New Deal', 'Executive action', 'Emission reduction']",0,1,1,0,0,0,1,0,0
+2217,3,"['Executive action', '(De)regulation and laws', 'Emission reduction']",0,0,1,0,1,0,1,0,0
+2217,17,"['Executive action', '(De)regulation and laws', 'Emission reduction']",0,0,1,0,1,0,1,0,0
+2218,3,"['Green New Deal', 'Executive action', 'Emergency declaration', '(De)regulation and laws', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",0,1,1,1,1,1,1,1,0
+2218,17,"['Green New Deal', 'Executive action', 'Emergency declaration', '(De)regulation and laws', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",0,1,1,1,1,1,1,1,0
+2219,3,"['(De)regulation and laws', 'Renewable energy', 'Emission reduction', 'Other climate policy']",0,0,0,0,1,1,1,0,1
+2219,17,"['(De)regulation and laws', 'Renewable energy', 'Emission reduction']",0,0,0,0,1,1,1,0,0
+2224,3,"['Executive action', 'Other climate policy']",0,0,1,0,0,0,0,0,1
+2224,17,"['Executive action', 'Other climate policy']",0,0,1,0,0,0,0,0,1
+2227,3,"['Executive action', 'Other climate policy']",0,0,1,0,0,0,0,0,1
+2227,17,"['Executive action', 'Other climate policy']",0,0,1,0,0,0,0,0,1
+2230,3,"['Executive action', 'Renewable energy', 'Oil and gas industry']",0,0,1,0,0,1,0,1,0
+2230,17,"['Executive action', 'Renewable energy', 'Oil and gas industry']",0,0,1,0,0,1,0,1,0
+2233,3,"['Green New Deal', 'Executive action', '(De)regulation and laws', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",0,1,1,0,1,1,1,1,0
+2233,17,"['Executive action', '(De)regulation and laws', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",0,0,1,0,1,1,1,1,0
+2234,3,"['Paris Agreement', 'Executive action', 'Renewable energy', 'Oil and gas industry', 'Other climate policy']",1,0,1,0,0,1,0,1,1
+2234,17,"['Paris Agreement', 'Executive action', 'Renewable energy', 'Oil and gas industry', 'Other climate policy']",1,0,1,0,0,1,0,1,1
+2236,3,"['Executive action', 'Renewable energy', 'Emission reduction']",0,0,1,0,0,1,1,0,0
+2236,17,"['Executive action', 'Renewable energy', 'Emission reduction']",0,0,1,0,0,1,1,0,0
+2239,3,['Emission reduction'],0,0,0,0,0,0,1,0,0
+2239,17,['Emission reduction'],0,0,0,0,0,0,1,0,0
+2248,3,"['Paris Agreement', 'Green New Deal', 'Executive action', '(De)regulation and laws', 'Renewable energy', 'Emission reduction', 'Oil and gas industry', 'Other climate policy']",1,1,1,0,1,1,1,1,1
+2248,17,"['Paris Agreement', 'Green New Deal', 'Executive action', '(De)regulation and laws', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']",1,1,1,0,1,1,1,1,0
+2249,3,"['Executive action', '(De)regulation and laws', 'Other climate policy']",0,0,1,0,1,0,0,0,1
+2249,17,"['Executive action', '(De)regulation and laws', 'Other climate policy']",0,0,1,0,1,0,0,0,1
+2253,3,"['(De)regulation and laws', 'Oil and gas industry']",0,0,0,0,1,0,0,1,0
+2253,17,"['(De)regulation and laws', 'Oil and gas industry']",0,0,0,0,1,0,0,1,0
+2257,3,['Executive action'],0,0,1,0,0,0,0,0,0
+2257,17,['Executive action'],0,0,1,0,0,0,0,0,0
+2260,3,"['Executive action', '(De)regulation and laws', 'Renewable energy', 'Emission reduction', 'Other climate policy']",0,0,1,0,1,1,1,0,1
+2260,17,"['Executive action', '(De)regulation and laws', 'Renewable energy', 'Emission reduction', 'Other climate policy']",0,0,1,0,1,1,1,0,1
+2265,3,"['Green New Deal', '(De)regulation and laws', 'Oil and gas industry']",0,1,0,0,1,0,0,1,0
+2265,17,"['Green New Deal', '(De)regulation and laws', 'Oil and gas industry']",0,1,0,0,1,0,0,1,0
+2266,3,"['(De)regulation and laws', 'Renewable energy']",0,0,0,0,1,1,0,0,0
+2266,17,"['(De)regulation and laws', 'Renewable energy']",0,0,0,0,1,1,0,0,0
+2267,3,"['Green New Deal', 'Emission reduction', 'Oil and gas industry']",0,1,0,0,0,0,1,1,0
+2267,17,"['Green New Deal', 'Emission reduction', 'Oil and gas industry']",0,1,0,0,0,0,1,1,0
+2270,3,"['(De)regulation and laws', 'Renewable energy']",0,0,0,0,1,1,0,0,0
+2270,17,"['(De)regulation and laws', 'Renewable energy']",0,0,0,0,1,1,0,0,0
+2271,3,"['(De)regulation and laws', 'Renewable energy']",0,0,0,0,1,1,0,0,0
+2271,17,"['(De)regulation and laws', 'Renewable energy']",0,0,0,0,1,1,0,0,0

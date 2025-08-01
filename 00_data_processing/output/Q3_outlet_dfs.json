@@ -1,0 +1,191 @@
+{
+    "CNN": [
+        {
+            "Response": "Does not mention",
+            "Value": 599.5,
+            "Proportion": 0.6559080962800875
+        },
+        {
+            "Response": "Supports",
+            "Value": 195.0,
+            "Proportion": 0.21334792122538293
+        },
+        {
+            "Response": "Neutral",
+            "Value": 108.0,
+            "Proportion": 0.11816192560175055
+        },
+        {
+            "Response": "Opposes",
+            "Value": 6.5,
+            "Proportion": 0.007111597374179431
+        },
+        {
+            "Response": "Unclear",
+            "Value": 2.5,
+            "Proportion": 0.002735229759299781
+        },
+        {
+            "Response": "Debate",
+            "Value": 2.5,
+            "Proportion": 0.002735229759299781
+        }
+    ],
+    "CBS": [
+        {
+            "Response": "Does not mention",
+            "Value": 137.0,
+            "Proportion": 0.7653631284916201
+        },
+        {
+            "Response": "Supports",
+            "Value": 21.5,
+            "Proportion": 0.12011173184357542
+        },
+        {
+            "Response": "Neutral",
+            "Value": 19.5,
+            "Proportion": 0.10893854748603352
+        },
+        {
+            "Response": "Opposes",
+            "Value": 1.0,
+            "Proportion": 0.00558659217877095
+        }
+    ],
+    "Fox": [
+        {
+            "Response": "Does not mention",
+            "Value": 209.5,
+            "Proportion": 0.5290404040404041
+        },
+        {
+            "Response": "Opposes",
+            "Value": 126.0,
+            "Proportion": 0.3181818181818182
+        },
+        {
+            "Response": "Neutral",
+            "Value": 42.0,
+            "Proportion": 0.10606060606060606
+        },
+        {
+            "Response": "Debate",
+            "Value": 9.0,
+            "Proportion": 0.022727272727272728
+        },
+        {
+            "Response": "Supports",
+            "Value": 8.5,
+            "Proportion": 0.021464646464646464
+        },
+        {
+            "Response": "Unclear",
+            "Value": 1.0,
+            "Proportion": 0.0025252525252525255
+        }
+    ],
+    "MSNBC": [
+        {
+            "Response": "Does not mention",
+            "Value": 201.5,
+            "Proportion": 0.6396825396825396
+        },
+        {
+            "Response": "Supports",
+            "Value": 78.5,
+            "Proportion": 0.2492063492063492
+        },
+        {
+            "Response": "Neutral",
+            "Value": 29.5,
+            "Proportion": 0.09365079365079365
+        },
+        {
+            "Response": "Debate",
+            "Value": 3.5,
+            "Proportion": 0.011111111111111112
+        },
+        {
+            "Response": "Unclear",
+            "Value": 1.0,
+            "Proportion": 0.0031746031746031746
+        },
+        {
+            "Response": "Opposes",
+            "Value": 1.0,
+            "Proportion": 0.0031746031746031746
+        }
+    ],
+    "NBC": [
+        {
+            "Response": "Does not mention",
+            "Value": 47.0,
+            "Proportion": 0.8034188034188035
+        },
+        {
+            "Response": "Supports",
+            "Value": 5.0,
+            "Proportion": 0.08547008547008547
+        },
+        {
+            "Response": "Neutral",
+            "Value": 5.0,
+            "Proportion": 0.08547008547008547
+        },
+        {
+            "Response": "Opposes",
+            "Value": 1.5,
+            "Proportion": 0.02564102564102564
+        }
+    ],
+    "PBS": [
+        {
+            "Response": "Does not mention",
+            "Value": 40.0,
+            "Proportion": 0.5755395683453237
+        },
+        {
+            "Response": "Supports",
+            "Value": 15.0,
+            "Proportion": 0.2158273381294964
+        },
+        {
+            "Response": "Neutral",
+            "Value": 10.0,
+            "Proportion": 0.14388489208633093
+        },
+        {
+            "Response": "Debate",
+            "Value": 4.0,
+            "Proportion": 0.05755395683453238
+        },
+        {
+            "Response": "Unclear",
+            "Value": 0.5,
+            "Proportion": 0.007194244604316547
+        }
+    ],
+    "ABC": [
+        {
+            "Response": "Does not mention",
+            "Value": 72.0,
+            "Proportion": 0.8
+        },
+        {
+            "Response": "Supports",
+            "Value": 9.5,
+            "Proportion": 0.10555555555555556
+        },
+        {
+            "Response": "Neutral",
+            "Value": 6.0,
+            "Proportion": 0.06666666666666667
+        },
+        {
+            "Response": "Opposes",
+            "Value": 2.5,
+            "Proportion": 0.027777777777777776
+        }
+    ]
+}

@@ -1,17 +1,18 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
+**/.DS_Store
+.DS_Store
 *.py[cod]
 *$py.class
 
 # data files 
-network_simulations/01_homophily_only/input
-network_simulations/01_homophily_only/output
-
-network_simulations/02_homophily_with_swaps/robustness_data
-network_simulations/02_homophily_with_swaps/swapped_data
-
-transcript_analysis/input
-transcript_analysis/output
+data/policy_mentions/
+data/recoded_transcripts/
+data/survey_data/
+data/transcripts
+data/individual_policy_data/
+00_data_processing/output/all_Q.csv
+00_data_processing/output/OSF/
 
 # C extensions
 *.so

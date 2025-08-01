@@ -1,7 +1,9 @@
+krippendorff
 matplotlib
 numpy
 pandas
 pickle
+pyprojroot
 scipy
 seaborn
 scikit-learn

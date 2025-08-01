@@ -1,0 +1,141 @@
+{
+    "CNN": [
+        {
+            "Response": "Expresses climate concern",
+            "Value": 505.0,
+            "Proportion": 0.5522143247676325
+        },
+        {
+            "Response": "Neutral",
+            "Value": 405.5,
+            "Proportion": 0.4434117003827228
+        },
+        {
+            "Response": "Debate",
+            "Value": 2.0,
+            "Proportion": 0.002186987424822307
+        },
+        {
+            "Response": "Expresses opposition to climate concern",
+            "Value": 1.5,
+            "Proportion": 0.0016402405686167304
+        },
+        {
+            "Response": "Unclear",
+            "Value": 0.5,
+            "Proportion": 0.0005467468562055768
+        }
+    ],
+    "CBS": [
+        {
+            "Response": "Expresses climate concern",
+            "Value": 103.5,
+            "Proportion": 0.5782122905027933
+        },
+        {
+            "Response": "Neutral",
+            "Value": 75.5,
+            "Proportion": 0.42178770949720673
+        }
+    ],
+    "Fox": [
+        {
+            "Response": "Neutral",
+            "Value": 250.0,
+            "Proportion": 0.6313131313131313
+        },
+        {
+            "Response": "Expresses opposition to climate concern",
+            "Value": 99.5,
+            "Proportion": 0.25126262626262624
+        },
+        {
+            "Response": "Expresses climate concern",
+            "Value": 42.5,
+            "Proportion": 0.10732323232323232
+        },
+        {
+            "Response": "Debate",
+            "Value": 3.5,
+            "Proportion": 0.008838383838383838
+        },
+        {
+            "Response": "Unclear",
+            "Value": 0.5,
+            "Proportion": 0.0012626262626262627
+        }
+    ],
+    "MSNBC": [
+        {
+            "Response": "Expresses climate concern",
+            "Value": 176.5,
+            "Proportion": 0.5603174603174603
+        },
+        {
+            "Response": "Neutral",
+            "Value": 133.0,
+            "Proportion": 0.4222222222222222
+        },
+        {
+            "Response": "Expresses opposition to climate concern",
+            "Value": 3.5,
+            "Proportion": 0.011111111111111112
+        },
+        {
+            "Response": "Unclear",
+            "Value": 1.0,
+            "Proportion": 0.0031746031746031746
+        },
+        {
+            "Response": "Debate",
+            "Value": 1.0,
+            "Proportion": 0.0031746031746031746
+        }
+    ],
+    "NBC": [
+        {
+            "Response": "Expresses climate concern",
+            "Value": 32.5,
+            "Proportion": 0.5555555555555556
+        },
+        {
+            "Response": "Neutral",
+            "Value": 26.0,
+            "Proportion": 0.4444444444444444
+        }
+    ],
+    "PBS": [
+        {
+            "Response": "Expresses climate concern",
+            "Value": 45.0,
+            "Proportion": 0.6474820143884892
+        },
+        {
+            "Response": "Neutral",
+            "Value": 23.5,
+            "Proportion": 0.3381294964028777
+        },
+        {
+            "Response": "Debate",
+            "Value": 1.0,
+            "Proportion": 0.014388489208633094
+        }
+    ],
+    "ABC": [
+        {
+            "Response": "Expresses climate concern",
+            "Value": 51.5,
+            "Proportion": 0.5722222222222222
+        },
+        {
+            "Response": "Neutral",
+            "Value": 37.5,
+            "Proportion": 0.4166666666666667
+        },
+        {
+            "Response": "Debate",
+            "Value": 1.0,
+            "Proportion": 0.011111111111111112
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+,inner_id,internal_id,q3_coder_response,outside-policy,more-comments-explained
+1,1,0,Supports,"{'choices': ['Paris Agreement', 'Green New Deal', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']}",didn't add UN climate accord as other climate policy (as other coder did) because isnt that the same as the paris agreement?
+17,9,36,nan,Oil and gas industry,"May have to throw this one out because it does not mention the words ""climate, ""global warming"", or ""environment"""
+24,13,77,Opposes,"{'choices': ['Renewable energy', 'Oil and gas industry']}","Agree with Kate except for ""emergency declaration,"" I think it would still count because of the phrase ""And rather than passing actual legislation, they will often do this through emergency decrees"" with the ""they"" referring to democrats "
+25,13,77,Opposes,"{'choices': ['Renewable energy', 'Oil and gas industry']}",Disagree with Zade because not referring to an actual emergency declaration and not related to climate change
+42,22,187,Opposes,(De)regulation and laws,Changed my coding to reflect election timeline (exec. action) and to remove emergency declaration (the word emergency appears 0 times in the transcript)
+46,24,191,Supports,"{'choices': ['Paris Agreement', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']}",I agree with zade that there are no mentions of regulation  but I disagree about emergency declaration and emissions
+47,24,191,Supports,"{'choices': ['Emergency declaration', 'Oil and gas industry']}",
+52,27,205,Opposes,"{'choices': ['Green New Deal', 'Executive action']}",
+53,27,205,Opposes,Renewable energy,
+55,28,206,Opposes,Green New Deal,critique on biden's support of the green new deal and climate change plan
+56,29,207,Supports,Other climate policy,slightly later on they mention voter priority and climate
+57,29,207,Supports,Other climate policy,"{'text': ['outside of passage mentions how climate change has been less of a voter priority', 'agree with zade!']}"
+62,32,213,Opposes,"{'choices': ['Paris Agreement', 'Green New Deal', 'Executive action', 'Renewable energy', 'Oil and gas industry']}",
+63,32,213,Opposes,"{'choices': ['Paris Agreement', 'Green New Deal', 'Executive action', 'Renewable energy', 'Oil and gas industry']}",
+72,37,230,Supports,Renewable energy,
+73,37,230,Supports,"{'choices': ['Executive action', 'Renewable energy']}","Joe Biden's monologue on political issues, which includes climate change"
+77,39,251,Supports,"{'choices': ['Executive action', '(De)regulation and laws', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']}",
+81,41,256,Supports,"{'choices': ['Paris Agreement', 'Green New Deal', 'Renewable energy', 'Emission reduction', 'Oil and gas industry']}",
+86,44,265,Supports,Oil and gas industry,
+87,44,265,Supports,Oil and gas industry,
+88,45,268,Opposes,"{'choices': ['Paris Agreement', 'Oil and gas industry']}",
+89,45,268,Opposes,"{'choices': ['Paris Agreement', 'Executive action', 'Oil and gas industry']}",
+92,47,276,Supports,Renewable energy,
+93,47,276,Supports,Renewable energy,
+97,49,278,Supports,Emergency declaration,
+109,55,289,Neutral,Oil and gas industry,
+114,58,307,Neutral,"{'choices': ['Executive action', 'Renewable energy']}",
+115,58,307,Neutral,Executive action,"Brief mentions of Obama's role in 1) clean energy and 2) ""195-nation agreement to attack climate change"""
+120,61,319,Opposes,"{'choices': ['Renewable energy', 'Oil and gas industry']}",
+121,61,319,Opposes,"{'choices': ['Renewable energy', 'Oil and gas industry']}",
+124,63,333,Supports,Renewable energy,
+125,63,333,Supports,Renewable energy,
+127,64,350,Supports,Renewable energy,
+143,72,383,Opposes,Oil and gas industry,
+165,83,433,Supports,(De)regulation and laws,
+216,109,554,Supports,Other climate policy,other climate policy = just general reference to climate change
+221,111,580,Supports,Paris Agreement,
+247,124,708,Debate,Oil and gas industry,
+278,140,753,Opposes,"{'choices': ['Executive action', '(De)regulation and laws', 'Renewable energy']}",
+279,140,753,Opposes,"{'choices': ['Executive action', '(De)regulation and laws', 'Renewable energy']}",
+280,141,754,Supports,Oil and gas industry,
+281,141,754,Supports,Oil and gas industry,
+295,148,768,Neutral,Oil and gas industry,
+297,149,769,Neutral,"{'choices': ['Renewable energy', 'Emission reduction', 'Oil and gas industry']}",
+318,160,797,Supports,Oil and gas industry,I agree with Tyler!
+319,160,797,Supports,Oil and gas industry,
+371,186,924,Opposes,"{'choices': ['Paris Agreement', 'Green New Deal']}",
+373,187,928,Supports,"{'choices': ['Paris Agreement', 'Executive action', 'Emission reduction']}",
+377,189,933,Supports,Paris Agreement,"I agree with Zade, must have missed this!"
+448,225,1011,Opposes,Renewable energy,"I agree with Zade, must have missed this!"
+449,225,1011,Opposes,Renewable energy,
+524,263,1108,Supports,Emission reduction,
+541,271,1130,Neutral,Renewable energy,
+547,274,1133,Neutral,"{'choices': ['Renewable energy', 'Oil and gas industry']}",
+579,290,1189,Neutral,Oil and gas industry,
+608,305,1249,Supports,Paris Agreement,
+609,305,1249,Supports,Paris Agreement,
+743,372,1358,Opposes,Oil and gas industry,
+901,451,1522,Supports,Renewable energy,
+1095,548,1756,Supports,Renewable energy,
+1135,568,1793,Neutral,Other climate policy,
+1157,579,1836,Supports,Emission reduction,
+1176,589,1883,Opposes,Emission reduction,
+1177,589,1883,Opposes,Emission reduction,

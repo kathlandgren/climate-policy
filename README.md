@@ -1,6 +1,6 @@
-# Why does the U.S. public underestimate climate policy support?
+# U.S. television news coverage of climate change policy is aggregately balanced but polarized
 
-This repository houses the code for the research on the mechanisms behind public support on climate policy.
+This repository houses the code for the research analyzing climate policy coverage in U.S. television news.
 
 ## Installation instructions
 Use `git clone` to download this repository either via HTTPS
@@ -34,8 +34,10 @@ Sparkman, Gregg, et al. "Americans experience a false social reality by underest
 ## Contents
 
 The repository is organized into the following directories:
-- [network_simulations/](https://github.com/kathlandgren/policy-misperception/tree/main/network_simulations): Contains the code related to the network simulations and analyses presented in the manuscript. The initial homophily analysis is based on the following: Karimi, Fariba, et al. "Homophily influences ranking of minorities in social networks." *Scientific Reports* 8.1 (2018): 11077. [DOI:10.1038/s41598-018-29405-7](https://doi.org/10.1038/s41598-018-29405-7). The analysis is divided into the following sections:
-  - opinion and perception functions
-  - homophily only analysis
-  - homophily with promotion of minority viewpoint analysis
-- [transcript_analysis/](https://github.com/kathlandgren/policy-misperception/tree/main/transcript_analysis): Includes scripts pertinent to the transcript annotation process. This folder includes the code used for assessing intercoder reliability as well as the code used for generating the estimated viewership for each of the news outlets analyzed in the manuscript.
+
+- [00_data_processing/](https://github.com/kathlandgren/policy-misperception/tree/main/00_data_processing): Includes Jupyter notebooks for processing and formatting annotation data for general climate policy analysis, as well as climate policy analysis by category.
+- [01_intercoder_reliability/](https://github.com/kathlandgren/policy-misperception/tree/main/00_data_processing): Includes Jupyter notebooks and Python scripts for calculating intercoder reliability for both rounds of annotation (general and by category).
+- [02_fig_2_linking_to_survey_data/](https://github.com/kathlandgren/policy-misperception/tree/main/02_fig_2_linking_to_survey_data): Contains Jupyter notebooks for linking the processed annotation data to survey data and computing synthetic ratings, as well as generating Fugure 2.
+- [03_fig_1_policy_valence/](https://github.com/kathlandgren/policy-misperception/tree/main/03_fig_1_policy_valence): Contains Jupyter notebooks for generating Figure 1, which shows the distribution of transcripts expressing support, opposition, or neutrality towards climate policy, as well as the differences between media outlets. Additionally plots the weighted estimates based on the survey data.
+- [04_fig_3_policy_category_analysis/](https://github.com/kathlandgren/policy-misperception/tree/main/04_fig_3_policy_category_analysis): Contains Jupyter notebooks for generating Figure 3, which shows the distribution of attitudes toward different climate policy categories, as well as the differences between media outlets, as well as the prevalence of different policy categories in the corpus.
+- [05_SI_robustness/](https://github.com/kathlandgren/policy-misperception/tree/main/05_SI_robustness): Contains Jupyter notebooks for generating the supplementary information figures, which include robustness checks and additional analyses of the data.

@@ -1,0 +1,116 @@
+{
+    "CNN": [
+        {
+            "Response": "Neutral",
+            "Value": 505.5,
+            "Proportion": 0.5527610716238381
+        },
+        {
+            "Response": "Acknowledges",
+            "Value": 407.5,
+            "Proportion": 0.4455986878075451
+        },
+        {
+            "Response": "Debate",
+            "Value": 1.0,
+            "Proportion": 0.0010934937124111536
+        },
+        {
+            "Response": "Unclear",
+            "Value": 0.5,
+            "Proportion": 0.0005467468562055768
+        }
+    ],
+    "CBS": [
+        {
+            "Response": "Neutral",
+            "Value": 101.0,
+            "Proportion": 0.5642458100558659
+        },
+        {
+            "Response": "Acknowledges",
+            "Value": 78.0,
+            "Proportion": 0.43575418994413406
+        }
+    ],
+    "Fox": [
+        {
+            "Response": "Neutral",
+            "Value": 276.5,
+            "Proportion": 0.6991150442477876
+        },
+        {
+            "Response": "Acknowledges",
+            "Value": 101.5,
+            "Proportion": 0.25663716814159293
+        },
+        {
+            "Response": "Denies",
+            "Value": 17.0,
+            "Proportion": 0.04298356510745891
+        },
+        {
+            "Response": "Debate",
+            "Value": 0.5,
+            "Proportion": 0.0012642225031605564
+        }
+    ],
+    "MSNBC": [
+        {
+            "Response": "Neutral",
+            "Value": 185.5,
+            "Proportion": 0.5888888888888889
+        },
+        {
+            "Response": "Acknowledges",
+            "Value": 128.5,
+            "Proportion": 0.40793650793650793
+        },
+        {
+            "Response": "Unclear",
+            "Value": 1.0,
+            "Proportion": 0.0031746031746031746
+        }
+    ],
+    "NBC": [
+        {
+            "Response": "Neutral",
+            "Value": 38.5,
+            "Proportion": 0.6581196581196581
+        },
+        {
+            "Response": "Acknowledges",
+            "Value": 20.0,
+            "Proportion": 0.3418803418803419
+        }
+    ],
+    "PBS": [
+        {
+            "Response": "Acknowledges",
+            "Value": 34.5,
+            "Proportion": 0.49640287769784175
+        },
+        {
+            "Response": "Neutral",
+            "Value": 34.0,
+            "Proportion": 0.4892086330935252
+        },
+        {
+            "Response": "Debate",
+            "Value": 1.0,
+            "Proportion": 0.014388489208633094
+        }
+    ],
+    "ABC": [
+        {
+            "Response": "Neutral",
+            "Value": 60.5,
+            "Proportion": 0.6722222222222223
+        },
+        {
+            "Response": "Acknowledges",
+            "Value": 29.5,
+            "Proportion": 0.3277777777777778
+        }
+    ]
+}
